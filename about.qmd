@@ -2,7 +2,7 @@
 title: "PsychGen Centre for Genetic Epidemiology and Mental Health"
 about:
   template: solana
-  image: profile.png
+  image: profile.jpg
   links:
     - icon: twitter
       text: twitter
