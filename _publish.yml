@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 9738fceb-d325-4706-be92-284624a7dc16
+      url: 'https://psychgen-test.netlify.app'
