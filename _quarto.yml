@@ -2,16 +2,38 @@ project:
   type: website
 
 website:
-  title: "my-website"
+  title: "PsychGen documentation"
   navbar:
+    background: primary
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "TSD"
+        href: tsd.qmd
+      - other.qmd
+    right:
+      - text: "Other resources"
+        menu:
+        - R_resources.qmd
+    tools:
+      - icon: github
+        menu: 
+          - text: Source Code
+            href: https://github.com/amslala/my-website
+            
+  sidebar:
+    - title: "TSD"
+      style: "docked"
+      background: light
+      contents: 
+        - tsd.qmd
+        - tsd_1.qmd
+        - tutorials-2.qmd
+      
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 

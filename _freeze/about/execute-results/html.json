@@ -1,9 +1,11 @@
 {
-  "hash": "429302fa6f45a098bc1289b6d7e9bf68",
+  "hash": "a5e8543991403e3f878f3412961330ce",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"About\"\n---\n\n\n\n\nAbout this site. Information about the site:\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"PsychGen Centre for Genetic Epidemiology and Mental Health\"\nabout:\n  template: jolla\n  image: profile.jpg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://x.com/PsychGenNIPH\n    - icon: github\n      text: Github\n      href: https://github.com/psychgen\n---\n\n\n\n\n\nThe PsychGen Centre is an interdisciplinary research environment dedicated to advancing knowledge about mental health.\n\nThere is still much we do not know about the causes of mental health conditions and how to improve the outcomes for children, young people, and adults living with various conditions. PsychGen aims to increase our knowledge about how genes and environmental factors influence the development and progression of neurodevelopmental and psychiatric conditions throughout the lifespan. Our goal is to build knowledge with potential to improve prevention, early intervention, and treatment strategies, and ultimately lead to improved mental health outcomes for individuals and communities.\n\nTo learn more about the PsychGen center: <https://www.fhi.no/en/me/the-psychgen-centre-for-genetic-epidemiology-and-mental-health/>\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
