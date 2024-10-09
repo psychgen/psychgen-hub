@@ -2,7 +2,7 @@
 title: "Working in TSD (p471)"
 ---
 
-If you have questions that aren't answered here, check the PsychGen Teams page and make contact there (see channels for TSD issues, using phenotypic and genetic data, and other topics, as well as general info in Central Station).
+In the following sections you will find information about working in TSD. If you have questions that aren't answered here, check the PsychGen Teams page and make contact there (see channels for TSD issues, using phenotypic and genetic data, and other topics, as well as general info in Central Station).
 
 ::: {.callout-important appearance="minimal"}
 ## Contribute!

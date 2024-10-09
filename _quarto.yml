@@ -10,7 +10,10 @@ website:
         href: about.qmd
       - text: "TSD"
         href: tsd.qmd
-      - other.qmd
+      - text: "New analytic project"
+        href: new_analytic.qmd
+      - text: "Phenotypic data"
+        href: pheno.qmd
     right:
       - text: "Other resources"
         menu:
@@ -19,7 +22,7 @@ website:
       - icon: github
         menu: 
           - text: Source Code
-            href: https://github.com/amslala/my-website
+            href: https://github.com/amslala/psychgen-test
             
   sidebar:
     - title: "TSD"
@@ -28,9 +31,13 @@ website:
       contents: 
         - tsd.qmd
         - tsd_1.qmd
-        - tutorials-2.qmd
+        - tsd_2.qmd
+        - tsd_3.qmd
+    - title: "Phenotypic data"
+      contents: 
+        - pheno.qmd
+        - pheno_1.qmd
       
-
 format:
   html:
     theme: flatly

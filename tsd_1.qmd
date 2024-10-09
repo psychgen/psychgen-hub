@@ -5,7 +5,7 @@ date: "08/10/2024"
 
 In order to access and analyse MoBa data you must become familiar with the Services for Sensitive Data (TSD) platform. A guide to the TSD is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/). TSD is a secure network that allows for UiO researchers and other collaborating institutions to share access to large amounts of sensitive data. If you have not already received TSD access contact your local MoBa collaborator.
 
-Prior to logging onto the TSD you will need to go into the app store on your mobile device and download the ‘google authenticator’ application. Once you have been set up onto the system (i.e., received your username and password) the following steps are required to log onto the TSD.
+Prior to logging onto the TSD you will need to go into the app store on your mobile device and download the ‘Google Authenticator’ application. Once you have been set up onto the system (i.e., received your username and password) the following steps are required to log onto the TSD.
 
 1.  Download Google Authenticator on your phone, and install the VMware Horizon Client [here](https://view.tsd.usit.no/) on your PC.
 
