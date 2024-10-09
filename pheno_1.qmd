@@ -12,8 +12,8 @@ On Windows you can install as follows (first check the common/software folder to
                      type = "binary")
 ```
 
-...and then run `vignette('phenotools')` for examples and instructions. External to TSD, the code for `phenotools` will be periodically updated on [Github](https://github.com/psychgen/phenotools).
+...and then run `vignette('phenotools')` for examples and instructions. External to TSD, the code for `{phenotools}` will be periodically updated on [Github](https://github.com/psychgen/phenotools).
 
 Refer to the results of `available_variables(source="moba")` or to `phenotools::moba` / `phenotools::moba_varnames`, or to directly to the MoBa annotated questionnaires and instrument synthesis documentation for what you can pull from the quesionnaire data files.
 
-Datasets curated using `phenotools` will automatically exclude withdrawn participants as described above.
+Datasets curated using `{phenotools}` will automatically exclude withdrawn participants as described above.

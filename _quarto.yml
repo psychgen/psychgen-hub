@@ -23,6 +23,7 @@ website:
         menu: 
           - text: Source Code
             href: https://github.com/amslala/psychgen-test
+            target: _blank
             
   sidebar:
     - title: "TSD"
@@ -37,12 +38,19 @@ website:
       contents: 
         - pheno.qmd
         - pheno_1.qmd
+        - pheno_2.qmd
+        - pheno_3.qmd
+        
+  page-footer:
+    background: light 
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
       
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
