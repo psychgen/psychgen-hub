@@ -1,0 +1,15 @@
+---
+title: "Import and export from TSD"
+---
+
+### Importing files to TSD
+
+It is likely you already have some scripts you want to run to conduct your analyses or some files you need to complete a task. In order to do this, you may want to import documents into TSD. Documentation on how to import data onto the TSD is available on TSD's [web page](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/import-export/index.html). The link to the TSD portal to upload your data once you’ve read the documentation is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/import-export.html).
+
+A few tips for importing data: When you import data be sure to specify the ‘group’ that the file will go into otherwise data will be uploaded into a ‘default’ folder which will be painful to find. Your group’s folder will be listed in the dropdown menu in the following format: p471-yourusernamehere-group.
+
+Once data has been imported, they will be found in the file-import folder. The path to this directory is: /tsd/pXX/data/durable/file-import/pXX-member-group. Where ‘XX’ refers to your specific group number (almost certainly p471).
+
+### **Exporting results from TSD**
+
+For exporting results please follow the instructions on the PsychGen & Friends Teams page "[Central Station](https://folkehelse.sharepoint.com/sites/2358/SitePages/export_tsd.aspx)".

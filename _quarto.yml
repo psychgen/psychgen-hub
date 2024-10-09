@@ -14,9 +14,13 @@ website:
         href: new_analytic.qmd
       - text: "Phenotypic data"
         href: pheno.qmd
-      - text: "Colossus"
-        href: colossus.qmd
+      - text: "Genetic data"
+        href: geno.qmd
+      - text: "MoBa"
+        href: moba.qmd
     right:
+      - text: "Troubleshooting"
+        href: trouble.qmd
       - text: "Other resources"
         menu:
         - R_resources.qmd
@@ -36,12 +40,19 @@ website:
         - tsd_1.qmd
         - tsd_2.qmd
         - tsd_3.qmd
+        - tsd_export.qmd
+        - colossus.qmd
     - title: "Phenotypic data"
       contents: 
         - pheno.qmd
         - pheno_1.qmd
         - pheno_2.qmd
         - pheno_3.qmd
+    - title: "Genetic data"
+      contents: 
+        - geno.qmd
+        - geno_1.qmd
+        - geno_2.qmd
         
   page-footer:
     background: light 

@@ -1,0 +1,11 @@
+---
+title: "MoBaPsychGen v.1 genetic data files"
+---
+
+You can find the genetic data, and accompanying files relevant for analyses in the `data/durable` area of the shared drive, under `/data/genetic_data`, and on the analogous location on the cluster.
+
+The README files in these folders detail what each file is, how it should be used, and several important points to consider *before* using the the genetic data. **Please read the contents of this file**.
+
+The requirement to periodically delete individuals withdrawing consent for participation in MoBa (detailed in full [here](https://osf.io/necbg/wiki/Using%20MoBa%20phenotype%20data/)) applies equally to genetic data. The genetic data files in these managed locations will be updated centrally when we receive updated consent information. Please look out for notifications on the Teams space, as once these updates are made it becomes your responsibility to re-run analyses with the updated sample if work on your project is still ongoing.
+
+If you are new to genomic analyses, see [Background to genetic techniques](https://osf.io/necbg/wiki/Background%20to%20genetic%20techniques/) for a list of papers which can serve as an introductory to key techniques such as genome-wide association studies (GWAS) and polygenic scores (PGS).

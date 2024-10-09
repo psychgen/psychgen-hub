@@ -18,11 +18,11 @@ p471 has a quota of CPU hours on Colossus that's shared between all users. The q
 
     Requesting too many cores or too much memory leads to longer queuing and less optimal resource usage. Our quota can also get drastically reduced. You must therefore read this article before submitting large jobs: [Memory settings on Colossus (sigma2.no)](https://documentation.sigma2.no/jobs/choosing-memory-settings.html)
 
-::: {.callout-warning appearance="simple"}
-**You should always run a test job before running many similar jobs.**
-:::
+::: callout-warning
+## You should always run a test job before running many similar jobs.
 
 Collaborators' institutions may be held accountable for covering costs due to improper or excessive use of computing resources on Colossus.
+:::
 
 ### FAQ
 
