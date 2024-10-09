@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "PsychGen documentation"
+  title: "PsychGen Wiki"
   navbar:
     background: primary
     left:
@@ -14,6 +14,8 @@ website:
         href: new_analytic.qmd
       - text: "Phenotypic data"
         href: pheno.qmd
+      - text: "Colossus"
+        href: colossus.qmd
     right:
       - text: "Other resources"
         menu:
