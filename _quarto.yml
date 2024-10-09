@@ -23,7 +23,10 @@ website:
         href: trouble.qmd
       - text: "Other resources"
         menu:
-        - R_resources.qmd
+        - text: "Locations of useful files (p471)"
+          href: files_p471.qmd
+        - check.qmd
+        - resources.qmd
     tools:
       - icon: github
         menu: 

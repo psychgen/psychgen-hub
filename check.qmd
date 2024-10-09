@@ -1,0 +1,43 @@
+---
+title: "Acknowledgement texts"
+---
+
+#### [TSD](https://www.uio.no/english/services/it/research/sensitive-data/about/cite-tsd.html)
+
+Example:
+
+::: {.callout-note appearance="simple" icon="false"}
+This work was performed on the TSD (Tjeneste for Sensitive Data) facilities,owned by the University of Oslo, operated and developed by the TSD service group at the University of Oslo, IT-Department (USIT). (tsd-drift\@usit.uio.no)
+:::
+
+#### [SIGMA](https://www.sigma2.no/acknowledgements)
+
+::: {.callout-note appearance="simple" icon="false"}        
+"The computations/simulations/[SIMILAR] were performed on resources provided by  Sigma2 - the National Infrastructure for High Performance Computing and  Data Storage in Norway" 
+:::
+
+#### NPR
+
+All manuscripts including data from the Norwegian Patient Register must include a disclaimer in the introduction or acknowledgements:
+
+::: {.callout-note appearance="simple" icon="false"}        
+"Disclaimer. Data from the Norwegian Patient Registry has been used in this publication. 
+The interpretation and reporting of these data are the sole responsibility of the authors, and no endorsement by the Norwegian Patient Registry is intended nor should be inferred" 
+:::
+
+#### MoBa
+
+A statement for the acknowledgment of the MoBa genomic data follows:
+
+::: {.callout-note appearance="simple" icon="false"}        
+“We thank the Norwegian Institute of Public Health (NIPH) for generating high-quality genomic data. 
+This research is part of the HARVEST collaboration, supported by the Research Council of Norway (NRC) (#229624). We also thank the NORMENT Centre for providing genotype data, funded by NRC (#223273), South East Norway Health Authority and KG Jebsen Stiftelsen. Further we thank the Center for Diabetes Research, the University of Bergen for providing genotype data and performing quality control and imputation of the data funded by the ERC AdG project SELECTionPREDISPOSED, Stiftelsen Kristian Gerhard Jebsen, Trond Mohn Foundation, NRC, the Novo Nordisk Foundation, the University of Bergen, and the Western Norway health Authorities (Helse Vest).” 
+:::
+
+A statement for the acknowledgment of the MoBa funders and participating families follows. The suggested text should be used as is;
+
+::: {.callout-note appearance="simple" icon="false"}        
+“The Norwegian Mother, Father and Child Cohort Study is supported by the Norwegian Ministry of Health and Care Services and the Ministry of Education and Research. We are grateful to all the participating families in Norway who take part in this on-going cohort study.” 
+:::
+
+For a comprehensive checklist before publication (MoBa based articles):[MoBa publication guidelines](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/checklist-for-papers/)
