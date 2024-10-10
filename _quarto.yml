@@ -63,10 +63,12 @@ website:
       
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: 
+      - flatly
+      - styles.scss
     toc: true
     page-layout: full
+    mainfont: Cabin
 
 editor: visual
 

@@ -1,0 +1,62 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+$blue:    #393c61 !default;
+$primary:       $blue !default;
+
+
+/*-- scss:rules --*/
+
+// Increase font size in sidebar
+.sidebar-navigation .sidebar-section .sidebar-item,
+.sidebar-navigation .sidebar-item{
+  line-height: 1.2;
+  padding-bottom: 0.5rem;
+}
+
+.sidebar-item .sidebar-item-toggle .bi {
+  // The dongle for opening and closing sections
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+// Increase font size in navbar
+.navbar {
+  font-size: 1.2rem;  
+}
+
+// Increase font size in TOC
+#TOC {
+  padding-bottom: 0.2em;
+}
+
+#toc-title {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.sidebar nav[role="doc-toc"] > ul li a {
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+// Make callout text and icon bigger
+.callout.callout-style-default {
+  > div.callout-header,
+  > .callout-body {
+    font-size: 1.05rem;
+  }
+
+  .callout-icon::before {
+    height: 1.1rem;
+    width: 1.1rem;
+    background-size: 1.1rem 1.1rem;
+  }
+}
+
+//hyperlinks 
+
+a {
+  color: #ee7068;
+}
+
+
