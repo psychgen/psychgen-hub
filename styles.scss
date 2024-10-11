@@ -6,12 +6,28 @@ $primary:       $blue !default;
 
 /*-- scss:rules --*/
 
+/* General styles for main content */
+.main-container {
+  font-size: 1.1rem; /* Adjust as needed */
+  line-height: 1.6;  /* Adjust for better readability */
+}
+
+/* Styles for paragraph text */
+p {
+  font-size: 1.1rem;  
+  line-height: 1.6;   
+  margin-bottom: 1.1rem;
+}
+
+
 // Increase font size in sidebar
 .sidebar-navigation .sidebar-section .sidebar-item,
 .sidebar-navigation .sidebar-item{
-  line-height: 1.2;
+  line-height: 1.3;
   padding-bottom: 0.5rem;
+  font-size: 1.05rem;
 }
+
 
 .sidebar-item .sidebar-item-toggle .bi {
   // The dongle for opening and closing sections
@@ -26,7 +42,7 @@ $primary:       $blue !default;
 
 // Increase font size in TOC
 #TOC {
-  padding-bottom: 0.2em;
+  padding-bottom: 0.3em;
 }
 
 #toc-title {
@@ -38,6 +54,7 @@ $primary:       $blue !default;
   padding-top: 0.4rem;
   padding-bottom: 0.4rem;
 }
+
 
 // Make callout text and icon bigger
 .callout.callout-style-default {

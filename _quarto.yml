@@ -69,6 +69,7 @@ format:
     toc: true
     page-layout: full
     mainfont: Cabin
+    smooth-scroll: true
 
 editor: visual
 
