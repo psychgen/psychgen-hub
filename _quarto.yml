@@ -21,12 +21,6 @@ website:
     right:
       - text: "Troubleshooting"
         href: trouble.qmd
-      - text: "Other resources"
-        menu:
-        - text: "Locations of useful files (p471)"
-          href: files_p471.qmd
-        - check.qmd
-        - resources.qmd
     tools:
       - icon: github
         menu: 
@@ -56,7 +50,7 @@ website:
         - geno.qmd
         - geno_1.qmd
         - geno_2.qmd
-        
+
   page-footer:
     background: light 
     right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}

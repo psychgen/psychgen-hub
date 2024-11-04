@@ -3,24 +3,12 @@ title: "Getting started with Services for Sensitive Data (TSD)"
 date: "08/10/2024"
 ---
 
-In order to access and analyse MoBa data you must become familiar with the Services for Sensitive Data (TSD) platform. A guide to the TSD is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/). TSD is a secure network that allows for UiO researchers and other collaborating institutions to share access to large amounts of sensitive data. If you have not already received TSD access contact your local MoBa collaborator.
+In order to access and analyse MoBa data you must become familiar with the Services for Sensitive Data (TSD) platform. A guide to the TSD is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/). TSD is a secure network that allows for UiO researchers and other collaborating institutions to share access to large amounts of sensitive data. If you have not already received TSD access contact your designated PsychGen contact person or the project coordination team.
 
-Prior to logging onto the TSD you will need to go into the app store on your mobile device and download the ‘Google Authenticator’ application. Once you have been set up onto the system (i.e., received your username and password) the following steps are required to log onto the TSD.
+Once you have set up access to TSD, you can log into our TSD project ("p471") via one of several "virtual machines" (VMs). Most run Windows (win-01, win-02) etc, but there is also one RedHat Linux VM. Most of the instructions in this wiki relate to the Windows VMs, because we assume that if you are working in Linux you can probably figure everything out anyway. 
 
-1.  Download Google Authenticator on your phone, and install the VMware Horizon Client [here](https://view.tsd.usit.no/) on your PC.
+All VMs also allow you, once inside TSD, to connect to and use the high performance computing cluster, which is called ‘Colossus’. Details for using Colossus can be found [here](tsd_3).
 
-2.  Open VMware, click New Server and enter "view.tsd.usit.no" into the address.
+Next: [Navigating through TSD](tsd_2).
 
-3.  Enter the username that you were sent in your letter into the user name field of VMware.
 
-4.  Open the Google Authenticator app on your phone and enter your details (the username must include "@tsd.usit.no" after it).
-
-5.  If it has worked it should spit out a 6 digit code which resets every \~60 seconds. Put this passcode in the passcode field of VMware.
-
-6.  Enter your password into the password field of VMware and press login.
-
-7.  Double click on the connection window towards the top left of the VMware app. Once you log on you will be asked whether you want to log in via VMware horizon html access or install VMware horizon client. Installing VMware client is preferred as it will allow you to copy text from outside the TSD and paste it into the TSD, which is helpful for scripting.
-
-Full documentation about the TSD is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/). Details about how to log onto the TSD are available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/).
-
-All of the relevant files and data you need in order to complete your analyses are available once you log onto the TSD, but first we recommend you do a few things to make your workspace more user friendly. For example, it may be worth changing the keyboard language to whatever language you are most familiar with. Note that keyboard mapping from your physical machine to the TSD virtual machine is not always perfect and this can cause password entry problems and issues with scripts. Use the on-screen keyboard feature in the Accessibility settings on the Windows virtual machine to help resolve inconsistencies.

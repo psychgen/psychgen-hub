@@ -2,12 +2,12 @@
 title: "Best practices when not using {phenotools}"
 ---
 
-If you prefer not to use the `{phenotools}` package, we recommend that you follow some of its guiding principles to ensure that your analyses are documented, reproducible, and minimise the local reproduction and storage of data. Code for analytic projects using phenotypic data in TSD p471 should:
+If you prefer **not** to use the `{phenotools}` package, we recommend that you follow some of its guiding principles to ensure that your analyses are documented, reproducible, and minimize the local reproduction and storage of data. Code for analytic projects using phenotypic data in TSD p471 should:
 
 -   Always refer back to raw files centrally located in data/durable/data
 
 -   Be complete enough to allow analyses to be re-run from full starting only with the code and the raw data files
 
--   Minimise the creation of interim data files with participant identifying information. Where necessary, such files should be created programmatically on the basis of raw files, should be stored in a specific directory within the project folder, and should be prioritised for deletion when analyses are complete
+-   Minimize the creation of interim data files with participant identifying information. When necessary, such files should be created programmatically on the basis of raw files, should be stored in a specific directory within the project folder, and should be prioritized for deletion when analyses are complete
 
 -   Be well-documented and suitable for export with results at the end of the project (data preparation code *must* be submitted to MoBa prior to submission - see [MoBa publication guidelines](https://www.fhi.no/en/studies/moba/for-forskere-artikler/checklist-for-papers/) - and all analytic code should ideally be published alongside empirical papers)

@@ -1,10 +1,8 @@
 ---
-title: "High performance computing (HPC) - Colossus"
+title: "Available software"
 ---
 
-High performance computing (HPC) services are available via [Colossus](https://www.uio.no/english/services/it/research/sensitive-data/help/hpc/colossus-userguide.html). The information below is intended as a supplement to the Colossus user guide provided by UiO, covering specific issues related to the use of Colossus for PsychGen-related projects.
-
-If you are an external collaborator, your PsychGen contact person must be made aware if you require use of HPC resources for your work in the project project.
+An overview of available software on TSD is [here](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/software/).
 
 The standard software for analysis in MoBa are **R and Stata**. If a program you require is not listed in the available applications, it is worth contacting your MoBa collaborator to see whether it can be installed.
 

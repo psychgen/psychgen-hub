@@ -9,3 +9,9 @@ For problems with access to TSD when you have previously connected successfully,
 For problems with phenotools, genotools, git/Gitea, project set-up, finding relevant files in TSD, or technical questions about using Colossus contact [laurie.hannigan\@bristol.ac.uk](mailto:laurie.hannigan@bristol.ac.uk) or post on the Teams channel.
 
 For problems or questions regarding use of the MoBaPsychGen_v1 genetics data, check the [preprint](https://www.biorxiv.org/content/10.1101/2022.06.23.496289v2), post on the Teams channel, or *if absolutely necessary* contact [Elizabeth.Corfield\@fhi.no](mailto:Elizabeth.Corfield@fhi.no).
+
+# FAQ
+
+1.  Question?
+
+Answer
