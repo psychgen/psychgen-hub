@@ -12,7 +12,7 @@ about:
       href: https://github.com/psychgen
 ---
 
-The PsychGen Centre is an interdisciplinary research environment dedicated to advancing knowledge about mental health.
+The PsychGen Centre is an interdisciplinary research environment dedicated to advancing knowledge about mental health!
 
 There is still much we do not know about the causes of mental health conditions and how to improve the outcomes for children, young people, and adults living with various conditions. PsychGen aims to increase our knowledge about how genes and environmental factors influence the development and progression of neurodevelopmental and psychiatric conditions throughout the lifespan. Our goal is to build knowledge with potential to improve prevention, early intervention, and treatment strategies, and ultimately lead to improved mental health outcomes for individuals and communities.
 
