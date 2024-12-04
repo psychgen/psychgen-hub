@@ -55,7 +55,7 @@ website:
             - text: "Logos"
               href: docs/psychgen_wiki/logos.qmd
             - text: "Reporting to CRISTIN"
-              href: docs/psychgen_wiki/Reportingcristin.qmd 
+              href: docs/psychgen_wiki/ReportingCristin.qmd 
           
           
   page-footer:
