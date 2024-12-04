@@ -16,6 +16,36 @@ Once you log onto your TSD windows machine you can set up your project’s data 
 
 2.  [Map the project home directories to a drive](https://www.uio.no/english/services/it/research/sensitive-data/help/windows-shortcuts.html): `//ess01/p471/data/durable`
 
+::: callout-note
+### Code of conduct on p471
+
+We are several people working together on p471. In order for it to run as smooth as possible for everyone please read and adhere to the following
+
+-   **Do not modify original files**
+
+    -   There are safeguards to keep you from modifying the original files, but please take care and avoid taking any chances
+
+-   **Release memory when not running analysis**
+
+    -   Close “R” or use the clean-up function to release memory to the rest of the users. Do this before you log out of the system.
+
+-   **Do not request export of personal data**
+
+    -   We check all files as a safeguard, but it is your responsibility to check all the requested files for compliance. Personal data is all information on the individual level. This is (1) either results from completed analysis or raw data containing information on the individual. (2) All group data with fewer than ten (\<10) individuals are considered personal data. (3) Even personal data that is anonymised is considered personal data (this includes genetic data).
+
+-   I**mporting data**
+
+    -   Import data to your own user folder. You can choose this from the drop-down menu when you import. Only import data you know it's legal to import and delete when no longer needed.
+
+-   **Storage of your files**
+
+    -   Keep all your files in the Project folder. That way we can get them out if you no longer have access to TSD at a later date.
+
+-   **Delete, delete, delete**
+
+    -   Do not keep duplicates, delete exported files you have received, delete imported files you have moved or don’t need. We have limited space.
+:::
+
 ### **Project home directories**
 
 The home directory for our project on the Windows side (you mapped the drive for this above) is located at: **\>drive letter you chose during mapping\</data/durable.**
@@ -44,7 +74,7 @@ The standard software for analysis in MoBa are **R and Stata**. If a program you
 
 For those of you more familiar with SPSS, SPSS data files are available and can be opened through R without needing SPSS (recommend using the `read_spss()` function from the `{haven}` package). SPSS only works for University of Oslo employees who get it for free, others need a license to use it in TSD. The MoBa phenotype data folder also contains Stata files.
 
-### Available software 
+### Available software
 
 An overview of available software on TSD is [here](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/software/).
 
