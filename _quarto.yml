@@ -6,7 +6,8 @@ website:
   navbar:
     background: primary
     left:
-      - text: "About"
+      - text: "Data dictionary"
+      - text: "PsychGen Wiki"
         href: about.qmd
       - text: "TSD"
         href: tsd.qmd
