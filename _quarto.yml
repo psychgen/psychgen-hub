@@ -11,6 +11,7 @@ website:
     collapse-bellow: lg
     left:
       - text: "Data dictionary"
+        href: docs/psychgen_wiki/data_gettingstarted.qmd
       - text: "PsychGen Wiki"
       - text: "Teams"
       - text: "PsychGen Github"

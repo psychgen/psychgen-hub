@@ -1,18 +1,16 @@
----
-title: "Using MoBa phenotype and linked registry data"
----
+# Getting started with data in p471
+
+## Using MoBa phenotype and linked registry data
 
 Most users will need to access MoBa questionnaire data for their analyses. If your accepted analysis plan also specified use of linked registry data - for example from the Norwegian Patient Registry (NPR) or Statistics Norway (SSB) then you should also have access to those files. The next sections details best practices for interacting with these data sources.
 
-::: callout-important
-## IMPORTANT NOTICE
+::: callout-note
+**IMPORTANT NOTICE**
 
-We periodically receive updates from MoBa that reflect participant withdrawals from the cohort. On receipt of a new "`SV_INFO`" file, we will notify all users via [Teams](https://osf.io/necbg/wiki/Using%20MoBa%20phenotype%20data/) and remove all withdrawn individuals from the central raw data files. **It is then all users' responsibility** to ensure that scripts are re-run and all interim data files in their analytic projects are recreated accordingly. Analyses that have been submitted for publication do not need to be updated in this way.
+We periodically receive updates from MoBa that reflect participant withdrawals from the cohort. On receipt of a new "`SV_INFO`" file, we will notify all users via Teams and remove all withdrawn individuals from the central raw data files. **It is then all users' responsibility** to ensure that scripts are re-run and all interim data files in their analytic projects are recreated accordingly. Analyses that have been submitted, or are for publication do not need to be updated in this way.
 :::
 
-# The Phenotools
-
-![](img/phenotools.jpg){fig-align="center"}
+### Phenotools R package
 
 The PaGe/PsychGen group has been developing an R package called [**phenotools**](https://github.com/psychgen/phenotools) that can be used to work with phenotype data from MoBa and linked registries (such as the Norwegian Patient Registry). It is still in development, and so comes with a warning (variables are still being quality controlled and up until v1 of the package you may need to re-run analyses if coding errors are discovered), but is currently our recommended way to curating datasets for your analyses.
 
@@ -30,9 +28,7 @@ Refer to the results of `available_variables(source="moba")` or to `phenotools::
 
 Datasets curated using `{phenotools}` will automatically exclude withdrawn participants as described above.
 
----
-title: "Linked registry sources"
----
+### Linked registry sources
 
 `{phenotools}` currently supports linkage to NPR and the primary care registry KUHR. Details are provided in the package vignette. If your project involves linkage to other registry sources, it is recommended that you first curate a dataset using phenotools, and then follow the instructions below to find and manually incorporate other sources of phenotypic data.
 
@@ -44,9 +40,7 @@ In addition to the raw registry files, you will also need a linkage file to join
 
 Please be aware that incorrectly specified merges of large datasets can use enormous amounts of RAM - it is recommended that you test your code first on abbreviated versions of the datasets you intend to merge.
 
----
-title: "Best practices when not using {phenotools}"
----
+### Best practices when not using Phenotools
 
 If you prefer **not** to use the `{phenotools}` package, we recommend that you follow some of its guiding principles to ensure that your analyses are documented, reproducible, and minimize the local reproduction and storage of data. Code for analytic projects using phenotypic data in TSD p471 should:
 
@@ -58,17 +52,11 @@ If you prefer **not** to use the `{phenotools}` package, we recommend that you f
 
 -   Be well-documented and suitable for export with results at the end of the project (data preparation code *must* be submitted to MoBa prior to submission - see [MoBa publication guidelines](https://www.fhi.no/en/studies/moba/for-forskere-artikler/checklist-for-papers/) - and all analytic code should ideally be published alongside empirical papers)
 
----
-title: "Using MoBa genetic data in p471"
----
+## Using MoBa genetic data in p471
 
 The genetic data available for use in p471 has been quality-controlled using the [MoBaPsychGen v.1 QC pipeline](https://www.biorxiv.org/content/10.1101/2022.06.23.496289v1). All details are available in the preprint (linked above) and code for the pipeline is available on the associated [github repository](https://github.com/psychgen/MoBaPsychGen-QC-pipeline). **Please try to find answers to questions you may have about the QC in these sources before contacting the QC team**.
 
-In the next sections you can find some general information about using MoBa genetic data files.
-
----
-title: "MoBaPsychGen v.1 genetic data files"
----
+### MoBaPsychGen v.1 genetic data files
 
 You can find the genetic data, and accompanying files relevant for analyses in the `data/durable` area of the shared drive, under `/data/genetic_data/MoBaPsychGen_v1`.
 
@@ -76,9 +64,7 @@ The README files in these folders detail what each file is, how it should be use
 
 The requirement to periodically delete individuals withdrawing consent for participation in MoBa (detailed in full [here](https://osf.io/necbg/wiki/Using%20MoBa%20phenotype%20data/)) applies equally to genetic data. The genetic data files in these managed locations will be updated centrally when we receive updated consent information. Please look out for notifications on the Teams space, as once these updates are made it becomes your responsibility to re-run analyses with the updated sample if work on your project is still ongoing.
 
----
-title: "Using the {genotools} R package to work with genetic data"
----
+### Using the Genotools R package to work with genetic data
 
 The PaGe/PsychGen group has been developing an R package called [**genotools**](https://github.com/psychgen/genotools) (sister to the **phenotools** package described in the section on using phenotypic data) that can be used to work with genetic data diles from the MobaPsychGen QC pipeline. It is still in development, and so comes with relatively limited functionality and a health warning, but is currently a useful way to create (and use pre-created polygenic scores), merge genetic and phenotypic data, and filter an analytic sample for different degrees of relatedness.
 
