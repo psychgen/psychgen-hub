@@ -2,25 +2,25 @@ project:
   type: website
 
 website:
-  title: "PsychGen Wiki"
+  title: "PsychGen Hub"
   navbar:
     background: primary
     left:
       - text: "Data dictionary"
       - text: "PsychGen Wiki"
       - text: "TSD"
-        href: tsd.qmd
+        href: psychgen_wiki/tsd.qmd
       - text: "New analytic project"
-        href: new_analytic.qmd
+        href: psychgen_wiki/new_analytic.qmd
       - text: "Phenotypic data"
-        href: pheno.qmd
+        href: psychgen_wiki/pheno.qmd
       - text: "Genetic data"
-        href: geno.qmd
+        href: psychgen_wiki/geno.qmd
       - text: "MoBa"
-        href: moba.qmd
+        href: psychgen_wiki/moba.qmd
     right:
       - text: "Troubleshooting"
-        href: trouble.qmd
+        href: psychgen_wiki/trouble.qmd
     tools:
       - icon: github
         menu: 
@@ -33,12 +33,12 @@ website:
       style: "docked"
       background: light
       contents: 
-        - tsd.qmd
-        - tsd_1.qmd
-        - tsd_2.qmd
-        - tsd_3.qmd
-        - tsd_export.qmd
-        - colossus.qmd
+        - psychgen_wiki/tsd.qmd
+        - psychgen_wiki/tsd_1.qmd
+        - psychgen_wiki/tsd_2.qmd
+        - psychgen_wiki/tsd_3.qmd
+        - psychgen_wiki/tsd_export.qmd
+        - psychgen_wiki/colossus.qmd
     - title: "Phenotypic data"
       contents: 
         - pheno.qmd
