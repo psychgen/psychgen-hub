@@ -8,6 +8,10 @@ website:
     left:
       - text: "Data dictionary"
       - text: "PsychGen Wiki"
+<<<<<<< HEAD
+=======
+        href: about.qmd
+>>>>>>> 42bf059e1e333e4a8b5d04bb5519e5ecac55a2fe
       - text: "TSD"
         href: tsd.qmd
       - text: "New analytic project"
