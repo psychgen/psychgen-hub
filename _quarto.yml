@@ -3,6 +3,7 @@ project:
 
 website:
   title: "PsychGen Hub"
+  site-url: https://psychgen-test.netlify.app/
   page-navigation: true
   back-to-top-navigation: true
   
