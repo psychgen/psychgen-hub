@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: false
+  title: "PsychGen Hub"
   page-navigation: true
   back-to-top-navigation: true
   
@@ -10,8 +10,6 @@ website:
     background: primary
     collapse-bellow: lg
     left:
-      - text: "PsychGen Hub"
-        href: about.qmd
       - text: "Data dictionary"
       - text: "PsychGen Wiki"
         href: docs/psychgen_wiki/data_gettingstarted.qmd
