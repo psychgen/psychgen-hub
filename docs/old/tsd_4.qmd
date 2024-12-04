@@ -1,9 +1,0 @@
----
-title: "Available software"
----
-
-An overview of available software on TSD is [here](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/software/).
-
-The standard software for analysis in MoBa are **R and Stata**. If a program you require is not listed in the available applications, it is worth contacting your MoBa collaborator to see whether it can be installed.
-
-For those of you more familiar with SPSS, SPSS data files are available and can be opened through R without needing SPSS (recommend using the `read_spss()` function from the `{haven}` package). SPSS only works for University of Oslo employees who get it for free, others need a license to use it in TSD. The MoBa phenotype data folder also contains Stata files.
