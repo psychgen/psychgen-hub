@@ -3,54 +3,60 @@ project:
 
 website:
   title: "PsychGen Hub"
+  page-navigation: true
+  back-to-top-navigation: true
+  
   navbar:
     background: primary
+    collapse-bellow: lg
     left:
       - text: "Data dictionary"
       - text: "PsychGen Wiki"
-      - text: "TSD"
-        href: psychgen_wiki/tsd.qmd
-      - text: "New analytic project"
-        href: psychgen_wiki/new_analytic.qmd
-      - text: "Phenotypic data"
-        href: psychgen_wiki/pheno.qmd
-      - text: "Genetic data"
-        href: psychgen_wiki/geno.qmd
-      - text: "MoBa"
-        href: psychgen_wiki/moba.qmd
-    right:
-      - text: "Troubleshooting"
-        href: psychgen_wiki/trouble.qmd
+      - text: "Teams"
+      - text: "PsychGen Github"
     tools:
       - icon: github
         menu: 
-          - text: Source Code
+          - text: "Edit this page: Source Code"
             href: https://github.com/amslala/psychgen-test
             target: _blank
             
   sidebar:
-    - title: "TSD"
+    - id: psychgen_wiki
+    - title: "PsychGen Wiki"
       style: "docked"
-      background: light
+      align: left
       contents: 
-        - psychgen_wiki/tsd.qmd
-        - psychgen_wiki/tsd_1.qmd
-        - psychgen_wiki/tsd_2.qmd
-        - psychgen_wiki/tsd_3.qmd
-        - psychgen_wiki/tsd_export.qmd
-        - psychgen_wiki/colossus.qmd
-    - title: "Phenotypic data"
-      contents: 
-        - pheno.qmd
-        - pheno_1.qmd
-        - pheno_2.qmd
-        - pheno_3.qmd
-    - title: "Genetic data"
-      contents: 
-        - geno.qmd
-        - geno_1.qmd
-        - geno_2.qmd
-
+        - "---"
+        - section: "Data analysis in p471"
+          contents: 
+            - text: "Getting started"
+              href: docs/psychgen_wiki/data_gettingstarted.qmd
+            - section: "Using TSD"
+              contents: 
+                - href: docs/psychgen_wiki/tsd_gettingstarted.qmd
+                - text: "Setting up a new analytical project and Git"
+                  href: docs/psychgen_wiki/git.qmd
+            - text: "Using HPC"
+              href: docs/psychgen_wiki/using_hpc.qmd
+        - "---"
+        - section: "Exports, publications and preregistration"
+          contents: 
+            - text: "Preregistration"
+              href: docs/psychgen_wiki/preregistration.qmd
+            - text: "Export templates"
+              href: docs/psychgen_wiki/export.qmd
+            - text: "Publication checklist"
+              href: docs/psychgen_wiki/checklist.qmd
+        - "---"
+        - section: "Other resources"
+          contents: 
+            - text: "Logos"
+              href: docs/psychgen_wiki/logos.qmd
+            - text: "Reporting to CRISTIN"
+              href: docs/psychgen_wiki/cristin.qmd 
+          
+          
   page-footer:
     background: light 
     right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
@@ -64,6 +70,10 @@ format:
     page-layout: full
     mainfont: Cabin
     smooth-scroll: true
+    grid: 
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
 
 editor: visual
 

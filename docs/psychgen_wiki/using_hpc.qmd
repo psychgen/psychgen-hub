@@ -1,0 +1,41 @@
+---
+title: "Using HPC"
+---
+
+Colossus is the TSD HPC cluster and is offered by UiO in collaboration with Sigma2 AS. [UiO's Colossus User Guide](https://www.uio.no/english/services/it/research/sensitive-data/help/hpc/colossus-userguide.html) includes detailed information about accessing and working with Colossus.
+
+::: callout-important
+Carefully read the UiO Colossus User Guide and this section before working with Colossus!
+:::
+
+### **The quota system on Colossus, and what [not]{.underline} to do**
+
+p471 has a quota of CPU hours on Colossus that's shared between all users. The quota is renewed every six months upon application from us. Please avoid the following:
+
+1.  Do not use old scrips made for other HPCs
+
+    You must optimize them for usage on Colossus.
+
+2.  Request too many cores or too much memory
+
+    Requesting too many cores or too much memory leads to longer queuing and less optimal resource usage. Our quota can also get drastically reduced. You must therefore read this article before submitting large jobs: [Memory settings on Colossus (sigma2.no)](https://documentation.sigma2.no/jobs/choosing-memory-settings.html)
+
+### Other useful tips:
+
+-   You should always run a test job before running many similar jobs. Collaborators' institutions may be held accountable for covering costs due to improper or excessive use of computing resources on Colossus.
+
+-   You can monitor the computing hours used in Colossus using the `cost` or `cost --details`
+
+### FAQ
+
+-   **What if I need a lot of resources?**
+
+If your analysis requires a large amount of either memory or cores, please contact us and we can review your needs.
+
+-   **I need help optimizing code or have questions**
+
+Contact us on Teams or by e-mail if you need help optimizing your code or have any questions!
+
+-   **Get more information before starting**
+
+You can find getting started information here: [Getting started (sigma2.no)](https://documentation.sigma2.no/getting_started/getting_started.html)

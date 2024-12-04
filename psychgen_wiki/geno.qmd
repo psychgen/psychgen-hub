@@ -1,7 +1,0 @@
----
-title: "Using MoBa genetic data in p471"
----
-
-The genetic data available for use in p471 has been quality-controlled using the [MoBaPsychGen v.1 QC pipeline](https://www.biorxiv.org/content/10.1101/2022.06.23.496289v1). All details are available in the preprint (linked above) and code for the pipeline is available on the associated [github repository](https://github.com/psychgen/MoBaPsychGen-QC-pipeline). **Please try to find answers to questions you may have about the QC in these sources before contacting the QC team**.
-
-In the next sections you can find some general information about using MoBa genetic data files.

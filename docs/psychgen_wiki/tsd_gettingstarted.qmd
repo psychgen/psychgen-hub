@@ -1,0 +1,53 @@
+# Getting started with Services for Sensitive Data (TSD)
+
+XX/XX/2024
+
+In order to access and analyse MoBa data you must become familiar with the Services for Sensitive Data (TSD) platform. A guide to the TSD is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/). TSD is a secure network that allows for UiO researchers and other collaborating institutions to share access to large amounts of sensitive data. If you have not already received TSD access contact your designated PsychGen contact person or the project coordination team.
+
+Once you have set up access to TSD, you can log into our TSD project ("p471") via one of several "virtual machines" (VMs). Most run Windows (win-01, win-02) etc, but there is also one RedHat Linux VM. Most of the instructions in this wiki relate to the Windows VMs, because we assume that if you are working in Linux you can probably figure everything out anyway.
+
+All VMs also allow you, once inside TSD, to connect to and use the high performance computing cluster, which is called ‘Colossus’. Details for using Colossus can be found [here](tsd_3).
+
+You can log into our TSD project via one of several "virtual machines" (VMs) that are avaiable. Most run Windows (win-01, win-02) etc, but there is also one RedHat Linux VM. Most of the instructions in this wiki relate to the Windows VMs, because we assume that if you are working in Linux you can probably figure everything out anyway. All VMs also allow you, once inside TSD, to connect to and use the high performance computing cluster, which is called ‘Colossus’.
+
+Once you log onto your TSD windows machine you can set up your project’s data folders in in windows using the following steps:
+
+1.  First read the documentation available [here](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/directories-files/shortcuts/index.html)
+
+2.  [Map the project home directories to a drive](https://www.uio.no/english/services/it/research/sensitive-data/help/windows-shortcuts.html): `//ess01/p471/data/durable`
+
+### **Project home directories**
+
+The home directory for our project on the Windows side (you mapped the drive for this above) is located at: **\>drive letter you chose during mapping\</data/durable.**
+
+The directory is organised into the following sub-directories:
+
+-   data (read-only location of datafiles; more details below)
+
+-   projects (location of directories for specific analytic projects)
+
+-   people (personal folders – please create one with your name here in both locations)
+
+-   common (useful files for common use)
+
+-   scratch (temporary storage of random files, files that do not fit elsewhere)
+
+### **Locations of phenotypic and genetic data**
+
+See the wiki sections on Using MoBa phenotype data and Using MoBa genetic data respectively.
+
+High performance computing (HPC) services are available via [Colossus](https://www.uio.no/english/services/it/research/sensitive-data/help/hpc/colossus-userguide.html). The information below is intended as a supplement to the Colossus user guide provided by UiO, covering specific issues related to the use of Colossus for PsychGen-related projects.
+
+If you are an external collaborator, your PsychGen contact person must be made aware if you require use of HPC resources for your work in the project project.
+
+The standard software for analysis in MoBa are **R and Stata**. If a program you require is not listed in the available applications, it is worth contacting your MoBa collaborator to see whether it can be installed.
+
+For those of you more familiar with SPSS, SPSS data files are available and can be opened through R without needing SPSS (recommend using the `read_spss()` function from the `{haven}` package). SPSS only works for University of Oslo employees who get it for free, others need a license to use it in TSD. The MoBa phenotype data folder also contains Stata files.
+
+### Available software 
+
+An overview of available software on TSD is [here](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/software/).
+
+The standard software for analysis in MoBa are **R and Stata**. If a program you require is not listed in the available applications, it is worth contacting your MoBa collaborator to see whether it can be installed.
+
+For those of you more familiar with SPSS, SPSS data files are available and can be opened through R without needing SPSS (recommend using the `read_spss()` function from the `{haven}` package). SPSS only works for University of Oslo employees who get it for free, others need a license to use it in TSD. The MoBa phenotype data folder also contains Stata files.
