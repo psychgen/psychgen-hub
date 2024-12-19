@@ -14,7 +14,7 @@ A few tips for importing data: When you import data be sure to specify the ‘gr
 
 Once data has been imported, they will be found in the file-import folder. The path to this directory is: `/tsd/pXX/data/durable/file-import/pXX-member-group`. Where ‘XX’ refers to your specific group number (almost certainly p471).
 
-------------------------------------------------------------------------
+
 
 ## Exporting results from TSD
 
@@ -31,7 +31,7 @@ Personal data is all information on the individual level. This is either results
 2.  Write the date at the start of the filename or folder (if multiple files).
 
 3.  Ensure that there are no individual-level data or results on groups of fewer than 10 (\<10) individuals in your file(s).
-------------------------------------------------------------------------
+
 
 ### Export requests e-mail template
 
