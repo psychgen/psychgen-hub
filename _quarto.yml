@@ -3,6 +3,7 @@ project:
 
 website:
   title: "PsychGen Hub"
+  favicon: logo.jpg
   page-navigation: true
   back-to-top-navigation: true
   
@@ -11,20 +12,21 @@ website:
     collapse-bellow: lg
     left:
       - text: "Data dictionary"
-      - text: "PsychGen Wiki"
+      - text: "Wiki"
         href: docs/psychgen_wiki/data_gettingstarted.qmd
-      - text: "Teams"
-      - text: "PsychGen Github"
+      - text: "Github"
+        href: https://github.com/psychgen 
+      - text: "OSF"
     tools:
       - icon: github
         menu: 
-          - text: "Edit this page: Source Code"
+          - text: "Source Code"
             href: https://github.com/amslala/psychgen-test
             target: _blank
             
   sidebar:
     - id: psychgen_wiki
-    - title: "PsychGen Wiki"
+    - title: "Wiki"
       style: "docked"
       align: left
       contents: 

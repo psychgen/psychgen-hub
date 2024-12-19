@@ -37,8 +37,19 @@ p {
 
 // Increase font size in navbar
 .navbar {
-  font-size: 1.2rem;  
+  font-size: 1.3rem;  
 }
+
+
+
+// Navbar title 
+.navbar-title {
+  font-size: 1.5rem;  
+  font-weight: 500;
+  color: #ec7c73;
+}
+
+
 
 // Increase font size in TOC
 #TOC {
