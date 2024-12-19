@@ -58,14 +58,13 @@ website:
               href: docs/psychgen_wiki/export.qmd
             - text: "Publication checklist"
               href: docs/psychgen_wiki/checklist.qmd
-        - "---"
+            - text: "Reporting to CRISTIN"
+              href: docs/psychgen_wiki/ReportingCristin.qmd 
+            - "---"
         - section: "Other resources"
           contents: 
             - text: "Logos"
               href: docs/psychgen_wiki/logos.qmd
-            - text: "Reporting to CRISTIN"
-              href: docs/psychgen_wiki/ReportingCristin.qmd 
-          
           
   page-footer:
     background: light 

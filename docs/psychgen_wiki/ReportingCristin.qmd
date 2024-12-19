@@ -2,11 +2,11 @@
 
 The first author should report articles to Cristin
 
-### Registering your publication in Cristin 
+### Registering your publication in Cristin
 
 If you are not affiliated with a Norwegian research institution you can e-mail your publication to the NIPH library and ask if they can registre it biblioteket\@fhi.no - cc the following: StianBarbo.Valand\@fhi.no; Alexandra.Havdahl\@fhi.no; Helga.Ask\@fhi.no
 
-If you are affiliated with a Norwegian research institution, you can follow the guides on Cristin: https://www.cristin.no/english/ or https://app.cristin.no/
+If you are affiliated with a Norwegian research institution, you can follow the guides on Cristin: <https://www.cristin.no/english/> or <https://app.cristin.no/>.
 
 ### Reporting funding numbers and SIGMA number
 
@@ -14,10 +14,10 @@ If you are affiliated with a Norwegian research institution, you can follow the 
 
 2.  Report the funding sources codes that are reported in the paper 
 
-    1.  See [this link](https://folkehelse.sharepoint.com/:x:/r/sites/2358/Delte%20dokumenter/General/PsychGen%20Center%20admin/PsychGen%20projects%20funding%20overview.xlsx?d=w2dfca8a1a2034c56a89fcab25cd58cd7&csf=1&web=1&e=ERfMsU) below if you know there are some missing 
+    -   See [this link](https://folkehelse.sharepoint.com/:x:/r/sites/2358/Delte%20dokumenter/General/PsychGen%20Center%20admin/PsychGen%20projects%20funding%20overview.xlsx?d=w2dfca8a1a2034c56a89fcab25cd58cd7&csf=1&web=1&e=ERfMsU) below if you know there are some missing 
 
 3.  Add the Sigma2 project number if you have used HPC resources
 
-    1.  **p471:** NS9791S
+    -   **p471:** NS9791S
 
-    2.  You add Sigma2 as a funding source ([please see this instruction](https://www.sigma2.no/reporting-usage-through-cristin))  
+    -   You add Sigma2 as a funding source ([please see this instruction](https://www.sigma2.no/reporting-usage-through-cristin))  
