@@ -37,10 +37,8 @@ p {
 
 // Increase font size in navbar
 .navbar {
-  font-size: 1.3rem;  
+  font-size: 1.3rem;
 }
-
-
 
 // Navbar title 
 .navbar-title {
@@ -49,6 +47,21 @@ p {
   color: #ec7c73;
 }
 
+.navbar {
+  display: flex; // Ensures items are aligned in a row
+  align-items: center; // Aligns items vertically
+  
+  .navbar-title {
+    padding-right: 18px; // Space between the title and the line
+    //margin-right: 5px; // Adjust this value to increase space to the right of the title
+  }
+  
+  .navbar-nav > li{
+    margin-left:10px;
+    margin-right:10px;
+    
+  }
+}
 
 
 // Increase font size in TOC
@@ -85,6 +98,15 @@ p {
 
 a {
   color: #ee7068;
+}
+
+
+section {
+  margin-bottom: 50px; // Adjust this value to increase spacing between sections
+}
+
+h1, h2, h3, h4{
+  margin-bottom: 20px; // Adjust spacing after headers
 }
 
 

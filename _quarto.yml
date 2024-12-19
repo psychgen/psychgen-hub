@@ -1,19 +1,26 @@
 project:
   type: website
 
+language: 
+  search-text-placeholder: Search
+  
 website:
   title: "PsychGen Hub"
-  favicon: logo.jpg
+  site-url: "https://psychgen-test.netlify.app"
+  favicon: logo.png
   page-navigation: true
   back-to-top-navigation: true
-  
+  search: 
+    location: navbar 
+    type: textbox
+    
   navbar:
     background: primary
     collapse-bellow: lg
     left:
-      - text: "Data dictionary"
       - text: "Wiki"
         href: docs/psychgen_wiki/data_gettingstarted.qmd
+      - text: "Data dictionary"
       - text: "Github"
         href: https://github.com/psychgen 
       - text: "OSF"
@@ -47,7 +54,7 @@ website:
           contents: 
             - text: "Preregistration"
               href: docs/psychgen_wiki/preregistration.qmd
-            - text: "Export templates"
+            - text: "Import and Export"
               href: docs/psychgen_wiki/export.qmd
             - text: "Publication checklist"
               href: docs/psychgen_wiki/checklist.qmd

@@ -1,8 +1,12 @@
 ---
-title: "Export and Import"
+title: "Import and Export"
 ---
 
-### Importing files to TSD
+In this section you can find information about how to import and export files to/from TSD. To export results from TSD please use the template included below.
+
+------------------------------------------------------------------------
+
+## Importing files to TSD
 
 It is likely you already have some scripts you want to run to conduct your analyses or some files you need to complete a task. In order to do this, you may want to import documents into TSD. Documentation on how to import data onto the TSD is available on TSD's [here](https://www.uio.no/english/services/it/research/sensitive-data/help/import-export.html).
 
@@ -10,15 +14,15 @@ A few tips for importing data: When you import data be sure to specify the ‘gr
 
 Once data has been imported, they will be found in the file-import folder. The path to this directory is: `/tsd/pXX/data/durable/file-import/pXX-member-group`. Where ‘XX’ refers to your specific group number (almost certainly p471).
 
-### **Exporting results from TSD**
+------------------------------------------------------------------------
+
+## Exporting results from TSD
 
 #### What is personal data?
 
-Personal data is all information on the individual level.
+Personal data is all information on the individual level. This is either results from completed analysis or raw data containing information on the individual. All group data with fewer than ten (\<10) individuals are considered personal data. Even personal data that is anonymised is considered personal data (this includes genetic data).
 
-This is either results from completed analysis or raw data containing information on the individual. All group data with fewer than ten (\<10) individuals are considered personal data. Even personal data that is anonymised is considered personal data (this includes genetic data).
-
-Rule of thumb: any line of data that is related to an individual is considered personal data.
+**Rule of thumb:** any line of data that is related to an individual is considered personal data.
 
 #### Where to put the files you want to export on TSD
 
@@ -27,17 +31,18 @@ Rule of thumb: any line of data that is related to an individual is considered p
 2.  Write the date at the start of the filename or folder (if multiple files).
 
 3.  Ensure that there are no individual-level data or results on groups of fewer than 10 (\<10) individuals in your file(s).
+------------------------------------------------------------------------
 
-#### Export requests e-mail template
+### Export requests e-mail template
 
-1.  Please use this [pre-filled e-mail template](mailto:stianbarbo.valand@fhi.no,helga.ask@fhi.no,Laurie.Hannigan@fhi.no,Alexandra.Havdahl@fhi.no?body=TSD%20path:) when requesting files
+1.  [Please use this pre-filled e-mail template](mailto:stianbarbo.valand@fhi.no,helga.ask@fhi.no,Laurie.Hannigan@fhi.no,Alexandra.Havdahl@fhi.no?body=TSD%20path:) when requesting files
 
 <!-- -->
 
 2.  Please copy the table below into your request e-mail:
 
 | Filename (similar files may be grouped for convenience) | Contents | Reason | I confirm that there is no personal data in the exported file request |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Example.txt | Summary of results for... | Inclusion in manuscript | Confirmed |
 | Figure 1.pdf | Network plots | Inclusion in Supplementary Materials | Confirmed |
 |  |  |  |  |
