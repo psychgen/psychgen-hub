@@ -42,6 +42,10 @@ website:
           contents: 
             - text: "Getting started"
               href: docs/psychgen_wiki/data_gettingstarted.qmd
+            - text: "Working with phenotypic data"
+              href: docs/psychgen_wiki/pheno_data.qmd
+            - text: "Working with genetic data"
+              href: docs/psychgen_wiki/genetic_data.qmd
             - section: "Using TSD"
               contents: 
                 - href: docs/psychgen_wiki/tsd_gettingstarted.qmd
