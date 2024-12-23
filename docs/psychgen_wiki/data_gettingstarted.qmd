@@ -1,4 +1,36 @@
-# Getting started with data in p471
+---
+title: "Getting started in project p471"
+---
+
+::: callout-note
+### Code of conduct on p471
+
+We are several people working together on p471. In order for it to run as smooth as possible for everyone please read and adhere to the following
+
+-   **Do not modify original files**
+
+    -   There are safeguards to keep you from modifying the original files, but please take care and avoid taking any chances
+
+-   **Release memory when not running analysis**
+
+    -   Close “R” or use the clean-up function to release memory to the rest of the users. Do this before you log out of the system.
+
+-   **Do not request export of personal data**
+
+    -   We check all files as a safeguard, but it is your responsibility to check all the requested files for compliance. Personal data is all information on the individual level. This is (1) either results from completed analysis or raw data containing information on the individual. (2) All group data with fewer than ten (\<10) individuals are considered personal data. (3) Even personal data that is anonymised is considered personal data (this includes genetic data).
+
+-   **Importing data**
+
+    -   Import data to your own user folder. You can choose this from the drop-down menu when you import. Only import data you know it's legal to import and delete when no longer needed.
+
+-   **Storage of your files**
+
+    -   Keep all your files in the Project folder. That way we can get them out if you no longer have access to TSD at a later date.
+
+-   **Delete, delete, delete**
+
+    -   Do not keep duplicates, delete exported files you have received, delete imported files you have moved or don’t need. We have limited space.
+:::
 
 ## Using MoBa phenotype and linked registry data
 

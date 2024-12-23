@@ -1,6 +1,6 @@
-# Getting started with Services for Sensitive Data (TSD)
-
-XX/XX/2024
+---
+title: "Getting started with Services for Sensitive Data (TSD)"
+---
 
 In order to access and analyse MoBa data you must become familiar with the Services for Sensitive Data (TSD) platform. A guide to the TSD is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/). TSD is a secure network that allows for UiO researchers and other collaborating institutions to share access to large amounts of sensitive data. If you have not already received TSD access contact your designated PsychGen contact person or the project coordination team.
 
@@ -16,35 +16,6 @@ Once you log onto your TSD windows machine you can set up your project’s data 
 
 2.  [Map the project home directories to a drive](https://www.uio.no/english/services/it/research/sensitive-data/help/windows-shortcuts.html): `//ess01/p471/data/durable`
 
-::: callout-note
-### Code of conduct on p471
-
-We are several people working together on p471. In order for it to run as smooth as possible for everyone please read and adhere to the following
-
--   **Do not modify original files**
-
-    -   There are safeguards to keep you from modifying the original files, but please take care and avoid taking any chances
-
--   **Release memory when not running analysis**
-
-    -   Close “R” or use the clean-up function to release memory to the rest of the users. Do this before you log out of the system.
-
--   **Do not request export of personal data**
-
-    -   We check all files as a safeguard, but it is your responsibility to check all the requested files for compliance. Personal data is all information on the individual level. This is (1) either results from completed analysis or raw data containing information on the individual. (2) All group data with fewer than ten (\<10) individuals are considered personal data. (3) Even personal data that is anonymised is considered personal data (this includes genetic data).
-
--   I**mporting data**
-
-    -   Import data to your own user folder. You can choose this from the drop-down menu when you import. Only import data you know it's legal to import and delete when no longer needed.
-
--   **Storage of your files**
-
-    -   Keep all your files in the Project folder. That way we can get them out if you no longer have access to TSD at a later date.
-
--   **Delete, delete, delete**
-
-    -   Do not keep duplicates, delete exported files you have received, delete imported files you have moved or don’t need. We have limited space.
-:::
 
 ### **Project home directories**
 

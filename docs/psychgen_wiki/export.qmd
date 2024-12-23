@@ -39,7 +39,7 @@ Personal data is all information on the individual level. This is either results
 2.  Please copy the table below into your request e-mail:
 
 | Filename (similar files may be grouped for convenience) | Contents | Reason | I confirm that there is no personal data in the exported file request |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Example.txt | Summary of results for... | Inclusion in manuscript | Confirmed |
 | Figure 1.pdf | Network plots | Inclusion in Supplementary Materials | Confirmed |
 |  |  |  |  |
