@@ -38,23 +38,23 @@ website:
       align: left
       contents: 
         - "---"
-        - section: "Data analysis in p471"
-          contents: 
-            - text: "Getting started"
-              href: docs/psychgen_wiki/data_gettingstarted.qmd
-            - text: "Working with phenotypic data"
-              href: docs/psychgen_wiki/pheno_data.qmd
-            - text: "Working with genetic data"
-              href: docs/psychgen_wiki/genetic_data.qmd
-            - section: "Using TSD"
+        - section: "Working in p471"
+          contents:
+            - href: docs/psychgen_wiki/tsd_gettingstarted.qmd
+            - section: "Data analysis in p471"
               contents: 
-                - href: docs/psychgen_wiki/tsd_gettingstarted.qmd
+                - text: "Code of conduct"
+                  href: docs/psychgen_wiki/data_gettingstarted.qmd
                 - text: "Setting up a new analytical project and Git"
                   href: docs/psychgen_wiki/git.qmd
-            - text: "Using HPC"
-              href: docs/psychgen_wiki/using_hpc.qmd
+                - text: "Working with phenotypic data"
+                  href: docs/psychgen_wiki/pheno_data.qmd
+                - text: "Working with genetic data"
+                  href: docs/psychgen_wiki/genetic_data.qmd
+                - text: "Using HPC"
+                  href: docs/psychgen_wiki/using_hpc.qmd
         - "---"
-        - section: "Exports, publications and preregistration"
+        - section: "Imports/exports, preregistration and publications"
           contents: 
             - text: "Preregistration"
               href: docs/psychgen_wiki/preregistration.qmd
@@ -64,12 +64,13 @@ website:
               href: docs/psychgen_wiki/checklist.qmd
             - text: "Reporting to CRISTIN"
               href: docs/psychgen_wiki/ReportingCristin.qmd 
-            - "---"
+        - "---"      
         - section: "Other resources"
           contents: 
             - text: "Logos"
               href: docs/psychgen_wiki/logos.qmd
           
+
   page-footer:
     background: light 
     right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}

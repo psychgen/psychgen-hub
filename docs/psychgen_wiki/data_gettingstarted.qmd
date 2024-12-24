@@ -2,7 +2,7 @@
 title: "Getting started in project p471"
 ---
 
-We are several people working together on p471. In order for it to run as smooth as possible for everyone please read and adhere to the following
+We are several people working together on p471. In order for it to run as smooth as possible for everyone please read and adhere to the following: 
 
 
 ::: callout-tip
