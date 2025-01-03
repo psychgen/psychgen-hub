@@ -1,0 +1,17 @@
+---
+title: "Setting up a new analytic project"
+---
+
+All standalone analytic projects being conducted in our TSD area should have their own folder created within `data/durable/projects`. Please do not use personal folders for files related to analytic projects. If you do need to use a personal folder, please create one in `data/durable/people`, rather than using the limited space on the `C:/` drive, which can cause us major problems.
+
+We have created a new project template as a start point for all users, which you can use to initialize a project folder for your project. It provides a standardized structure for storing the files from your analyses. Keeping to this structure helps to make it easy for collaborators (and, if required at a later date, administrators) to navigate your project. The template is wrapped up as an Rstudio project file, making it especially easy to work with in RStudio. However, **you can use this project template whether or not you intend to use R for your analyses** – the file structure, version control (via git) and links will still be useful to you.
+
+Here are three options for using the template to initialize your project:
+
+### ***Option 1: via {phenotools} (recommended)***
+
+The [phenotools](https://github.com/psychgen/phenotools) package has an `initialise_project()` function for this purpose (you will have to set up version control manually if you want to use it, if using this method – instructions in the [next](git.qmd) section).
+
+### ***Option 2: via Windows Explorer***
+
+It is possible to copy the new_project_template files directly to a project directory you create in Windows explorer (from data/durable/common/new_project_template). You will have to set up version control manually if using this method – instructions in the [next](git.qmd) section).

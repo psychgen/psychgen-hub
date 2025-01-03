@@ -45,10 +45,16 @@ website:
               contents: 
                 - text: "Code of conduct"
                   href: docs/psychgen_wiki/data_gettingstarted.qmd
-                - text: "Setting up a new analytical project and Git"
+                - text: "Setting up a new analytical project"
+                  href: docs/psychgen_wiki/analytic_project.qmd
+                - text: "Enabling Git in RStudio"
                   href: docs/psychgen_wiki/git.qmd
-                - text: "Working with phenotypic data"
-                  href: docs/psychgen_wiki/pheno_data.qmd
+                - section: "Working with phenotypic data"
+                  contents:
+                    - text: "Using MoBa phenotype and linked registry data"
+                      href: docs/psychgen_wiki/pheno_data.qmd
+                    - text: "{phenotools} vignette"
+                      href: docs/psychgen_wiki/pheno_vignette.qmd
                 - text: "Working with genetic data"
                   href: docs/psychgen_wiki/genetic_data.qmd
                 - text: "Using HPC"

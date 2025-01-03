@@ -1,0 +1,10 @@
+---
+title: "Vignette"
+format: html
+---
+
+Here is the latest version of the {phenotools} vignette, you can always run `vignette('phenotools')` locally in R.
+
+```{=html}
+<iframe width="900" height="1000" src="phenotools.html" title="Phenotools vignette"></iframe>
+```

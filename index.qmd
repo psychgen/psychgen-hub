@@ -1,5 +1,5 @@
 ---
-title: "PsychGen Centre for Genetic Epidemiology and Mental Health"
+title: "Welcome to the PsychGen Hub"
 about:
   template: solana
   image: img/niph.jpg
@@ -18,6 +18,6 @@ about:
 Please help to maintain the wiki by reporting broken links or out-of-date information. Open an issue in the website's Github including the relevant section/information.
 :::
 
-The PsychGen Centre is an interdisciplinary research environment dedicated to advancing knowledge about mental health.
+In the Hub you can find relevant information regarding working with data in p471, including the use of TSD, Colossus, phenotypic and genetic data.
 
-To learn more about the PsychGen center, you can visit its [NIPH website](https://www.fhi.no/en/me/the-psychgen-centre-for-genetic-epidemiology-and-mental-health/).
+The PsychGen Centre is an interdisciplinary research environment dedicated to advancing knowledge about mental health. To learn more about the PsychGen center, you can visit its [NIPH website](https://www.fhi.no/en/me/the-psychgen-centre-for-genetic-epidemiology-and-mental-health/).

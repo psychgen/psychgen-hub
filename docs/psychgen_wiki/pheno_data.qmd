@@ -3,7 +3,7 @@ title: "Using MoBa phenotype and linked registry data"
 ---
 
 ::: callout-important
-## Need further help? 
+## Need further help?
 
 Please use the relevant [Teams channel](https://teams.microsoft.com/l/channel/19%3A32f3d71d53fb4a78ae8ef1e1f98d5da1%40thread.tacv2/Using%20Phenotypic%20data?groupId=ef823ab8-2aa6-4001-83c0-f35ae8b2bfbc&tenantId=54475f80-1baa-4ea9-9185-c0de5cc603fe), if you have additional questions/problems relating to phenotypic data in p471.
 :::
@@ -34,6 +34,8 @@ Refer to the results of `available_variables(source="moba")` or to `phenotools::
 
 Datasets curated using `{phenotools}` will automatically exclude withdrawn participants as described above.
 
+
+
 ### Linked registry sources
 
 `{phenotools}` currently supports linkage to NPR and the primary care registry KUHR. Details are provided in the package vignette. If your project involves linkage to other registry sources, it is recommended that you first curate a dataset using phenotools, and then follow the instructions below to find and manually incorporate other sources of phenotypic data.
@@ -57,3 +59,4 @@ If you prefer **not** to use the `{phenotools}` package, we recommend that you f
 -   Minimize the creation of interim data files with participant identifying information. When necessary, such files should be created programmatically on the basis of raw files, should be stored in a specific directory within the project folder, and should be prioritized for deletion when analyses are complete
 
 -   Be well-documented and suitable for export with results at the end of the project (data preparation code *must* be submitted to MoBa prior to submission - see [MoBa publication guidelines](https://www.fhi.no/en/studies/moba/for-forskere-artikler/checklist-for-papers/) - and all analytic code should ideally be published alongside empirical papers).
+

@@ -1,22 +1,6 @@
 ---
-title: "Setting up a new analytic project"
+title: "Enable version control (Git) in RStudio"
 ---
-
-All standalone analytic projects being conducted in our TSD area should have their own folder created within `data/durable/projects`. Please do not use personal folders for files related to analytic projects. If you do need to use a personal folder, please create one in `data/durable/people`, rather than using the limited space on the `C:/` drive, which can cause us major problems.
-
-We have created a new project template as a start point for all users, which you can use to initialize a project folder for your project. It provides a standardized structure for storing the files from your analyses. Keeping to this structure helps to make it easy for collaborators (and, if required at a later date, administrators) to navigate your project. The template is wrapped up as an Rstudio project file, making it especially easy to work with in RStudio. However, **you can use this project template whether or not you intend to use R for your analyses** – the file structure, version control (via git) and links will still be useful to you.
-
-Here are three options for using the template to initialize your project:
-
-### ***Option 1: via {phenotools} (recommended)***
-
-The [phenotools](https://github.com/psychgen/phenotools) package has an `initialise_project()` function for this purpose (you will have to set up version control manually if you want to use it, if using this method – instructions in the [Happygit guide](https://happygitwithr.com/) or the section below).
-
-### ***Option 2: via Windows Explorer***
-
-It is possible to copy the new_project_template files directly to a project directory you create in Windows explorer (from data/durable/common/new_project_template). You will have to set up version control manually if using this method – instructions in the [Happygit guide](https://happygitwithr.com/) or the section below)
-
-### Enable version control (Git) in RStudio
 
 After initializing a project with either ***{phenotools}*** or manually via Windows Explorer, we encourage you to use git to version control your analyses in TSD. In order to set up version control in RStudio, you can follow the workflow:
 
@@ -45,3 +29,9 @@ After following theses steps, you should have a new tab labeled *Git* next to th
 You can also view your full commit history clicking on *History*. It is possible to filter by file, directory and branch, so only relevant commits are shown.
 
 Alternatively, it is possible to use the Terminal within RStudio to execute Git [commands](https://git-scm.com/docs). Next to the Console, there is tab Terminal that can be used to execute git commands (make sure that *Tools* -\>*Terminal Option*s -\> *New Terminals Open with* -\> *Git Bash* ). Otherwise, you can click on More (in the Git tab) and select Shell/Terminal from the drop-down menu.
+
+::: callout-tip
+## Additional resources
+
+If you need further information about the use of Git in RStudio you can consult [Happy Git and GitHub for the useR](https://happygitwithr.com/#lets-git-started).
+:::
