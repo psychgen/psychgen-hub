@@ -37,7 +37,7 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
     "The computations/simulations/\[SIMILAR\] were performed on resources provided by Sigma2 - the National Infrastructure for High-Performance Computing and Data Storage in Norway."
 
-5.  Submitting to the PsychGen EC group Please fill out this [pre-filed email](mailto:stianbarbo.valand@fhi.no;%20helga.ask@fhi.no;%20Alexandra.Havdahl@fhi.no?body=First%20Author:%0A%0AArticle%20title:%0A%0ACompleted%20MoBa%20Checklist?:%0A%0ACited%20MoBaPsychGen%20QC%20paper?:%0A%0AAcknowledged%20other%20data%20sources?:%0A%0AAcknowledged%20TSD?:%0A%0AAcknowledged%20%20HPC/Colossus/Sigma?:%0A%0ATSD%20path%20to%20code:%0A%0ACleaned%20up%20your%20project%20folderon%20TSD?::%0A%0) and send the manuscript along with the approved analysis plan to PsychGen EC four weeks before you aim to preprint or submit it to a journal.
+5.  Submitting to the PsychGen EC group Please fill out this [prefilled email](mailto:stianbarbo.valand@fhi.no;helga.ask@fhi.no;Alexandra.Havdahl@fhi.no?body=First%20Author%3A%0A%0AArticle%20title%3A%0A%0ACompleted%20MoBa%20Checklist%3F%3A%0A%0ACited%20MoBaPsychGen%20QC%20paper%3F%3A%0A%0AAcknowledged%20other%20data%20sources%3F%3A%0A%0AAcknowledged%20TSD%3F%3A%0A%0AAcknowledged%20HPC/Colossus/Sigma%3F%3A%0A%0ATSD%20path%20to%20code%3A%0A%0ACleaned%20up%20your%20project%20folder%20on%20TSD%3F%3A%0A%0A) and send the manuscript along with the approved analysis plan to PsychGen EC four weeks before you aim to preprint or submit it to a journal.
 
     The PsychGen EC should approve all publications using data from the PsychGen project before preprint or submission to a journal, to ensure the analysis plan proposal has been followed.
 
