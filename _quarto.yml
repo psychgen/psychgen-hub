@@ -55,8 +55,12 @@ website:
                       href: docs/psychgen_wiki/pheno_data.qmd
                     - text: "{phenotools} vignette"
                       href: docs/psychgen_wiki/pheno_vignette.qmd
-                - text: "Working with genetic data"
-                  href: docs/psychgen_wiki/genetic_data.qmd
+                - section: "Working with genetic data"
+                  contents: 
+                    - text: "Using MoBa genetic data"
+                      href: docs/psychgen_wiki/genetic_data.qmd
+                    - text: "{genotools} vignette"
+                      href: docs/psychgen_wiki/geno_vignette.qmd
                 - text: "Using HPC"
                   href: docs/psychgen_wiki/using_hpc.qmd
         - "---"

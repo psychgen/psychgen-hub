@@ -1,0 +1,10 @@
+---
+title: "Vignette"
+format: html
+---
+
+Here is the latest version of the {genotools} vignette, you can always run `vignette('genotools')` locally in R.
+
+```{=html}
+<iframe width="900" height="1000" src="genotools.html" title="genotools vignette"></iframe>
+```
