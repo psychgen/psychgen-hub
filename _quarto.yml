@@ -21,6 +21,7 @@ website:
       - text: "Wiki"
         href: docs/psychgen_wiki/data_gettingstarted.qmd
       - text: "Data dictionary"
+        href: docs/data_dictionary
       - text: "Github"
         href: https://github.com/psychgen 
       - text: "OSF"
