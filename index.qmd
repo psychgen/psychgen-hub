@@ -15,7 +15,7 @@ about:
 ::: callout-important
 ## Contribute
 
-Please help to maintain the wiki by reporting broken links or out-of-date information. Open an issue in the website's Github including the relevant section/information.
+Please help to maintain the wiki by reporting broken links or out-of-date information. Open an issue in the website's Github [repository](https://github.com/psychgen/psychgen-website/issues) including the relevant section/information.
 :::
 
 In the Hub you can find relevant information regarding working with data in p471, including the use of TSD, Colossus, phenotypic and genetic data.

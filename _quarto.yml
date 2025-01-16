@@ -30,7 +30,7 @@ website:
       - icon: github
         menu: 
           - text: "Source Code"
-            href: https://github.com/amslala/psychgen-test
+            href: https://github.com/psychgen/psychgen-website
             target: _blank
             
   sidebar:
