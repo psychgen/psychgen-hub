@@ -25,6 +25,7 @@ website:
       - text: "Github"
         href: https://github.com/psychgen 
       - text: "OSF"
+        href: https://osf.io/6m9ec/
     tools:
       - icon: github
         menu: 
@@ -67,6 +68,8 @@ website:
         - "---"
         - section: "Imports/exports, preregistration and publications"
           contents: 
+            - text: "Analysis plan"
+              href: docs/psychgen_wiki/analysis_plan.qmd
             - text: "Preregistration"
               href: docs/psychgen_wiki/preregistration.qmd
             - text: "Import and Export"

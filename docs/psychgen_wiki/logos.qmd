@@ -5,65 +5,78 @@ format: html
 
 Welcome! Below are the official PsychGen and NIPH logos available for use in your presentations, reports, or other materials. Please adhere to our guidelines when using these logos. For other logos, please consult Central Station in Teams, the official NIPH [webpage](https://www.fhi.no/om/fhi/visuell-profil/innhold/logo/), the [Lovisenberg Diakonale Sykehus](https://www.lovisenbergsykehus.no/mer-om-oss/logo-og-grafisk-profil/) and [Forskningsrådet](https://identitet.forskningsradet.no/verktoykasse/logo).
 
----
+------------------------------------------------------------------------
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
-
+:::::::::::: {style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;"}
 <!-- Logo 1: long white -->
-<div style="text-align: center;">
-  <img src="logos/PsychGen_English_long_white.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/PsychGen_English_long_white.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
+
+::: {style="text-align: center;"}
+<img src="logos/PsychGen_English_long_white.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/PsychGen_English_long_white.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 2: long transparent -->
-<div style="text-align: center;">
-  <img src="logos/PsychGen_English_longform_transparent.png" alt="Black & White Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/PsychGen_English_longform_transparent.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
+
+::: {style="text-align: center;"}
+<img src="logos/PsychGen_English_longform_transparent.png" alt="Black &amp; White Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/PsychGen_English_longform_transparent.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 3: short transparent -->
-<div style="text-align: center;">
-  <img src="logos/PsychGen_English_short_transparent.png" alt="Transparent Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/PsychGen_English_short_transparent.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
+
+::: {style="text-align: center;"}
+<img src="logos/PsychGen_English_short_transparent.png" alt="Transparent Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/PsychGen_English_short_transparent.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 4: short white -->
-<div style="text-align: center;">
-  <img src="logos/PsychGen_English_short_white.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/PsychGen_English_short_white.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
+
+::: {style="text-align: center;"}
+<img src="logos/PsychGen_English_short_white.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/PsychGen_English_short_white.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 5: norwegian long transparent-->
-<div style="text-align: center;">
-  <img src="logos/PsychGen_Norwegian_long_transparent.png" alt="Black & White Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/PsychGen_Norwegian_long_transparent.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
+
+::: {style="text-align: center;"}
+<img src="logos/PsychGen_Norwegian_long_transparent.png" alt="Black &amp; White Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/PsychGen_Norwegian_long_transparent.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 6: norwegian long white -->
-<div style="text-align: center;">
-  <img src="logos/PsychGen_Norwegian_long_white.png" alt="Transparent Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/PsychGen_Norwegian_long_white.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
 
+::: {style="text-align: center;"}
+<img src="logos/PsychGen_Norwegian_long_white.png" alt="Transparent Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/PsychGen_Norwegian_long_white.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 7: moba -->
-<div style="text-align: center;">
-  <img src="logos/moba.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/moba.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
+
+::: {style="text-align: center;"}
+<img src="logos/moba.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/moba.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 8: fhi -->
-<div style="text-align: center;">
-  <img src="logos/fhi_logo.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/fhi_logo.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
 
+::: {style="text-align: center;"}
+<img src="logos/fhi_logo.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
+
+<p><a href="logos/fhi_logo.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
 
 <!-- Logo 9: helse sør øst -->
-<div style="text-align: center;">
-  <img src="logos/helseso.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <p><a href="logos/helseso.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
-</div>
 
-</div>
+::: {style="text-align: center;"}
+<img src="logos/helseso.png" alt="Color Logo" style="width: 150px; height: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;"/>
 
+<p><a href="logos/helseso.png" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+:::
+::::::::::::
