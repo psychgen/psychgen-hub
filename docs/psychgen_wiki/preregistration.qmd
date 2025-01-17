@@ -2,4 +2,8 @@
 title: "Preregistration"
 ---
 
-Coming soon...
+*What is a preregistration?*
+
+A preregistration is a publicly available, time-stamped record of decisions around study design, methods and analysis, usually (but not always) created before data is collected or becomes available. Recently, it has been argued that preregistration is also helpful when you have secondary data. You can find a template for preregistration [https://osf.io/35h7j/](here). 
+
+
