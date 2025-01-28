@@ -19,13 +19,15 @@ website:
     collapse-bellow: lg
     left:
       - text: "Wiki"
-        href: docs/psychgen_wiki/data_gettingstarted.qmd
+        href: docs/psychgen_wiki/analysis_plan.qmd
       - text: "Data dictionary"
         href: docs/data_dictionary
       - text: "Github"
-        href: https://github.com/psychgen 
+        href: https://github.com/psychgen
+        target: _blank
       - text: "OSF"
         href: https://osf.io/6m9ec/
+        target: _blank
     tools:
       - icon: github
         menu: 
@@ -39,6 +41,13 @@ website:
       style: "docked"
       align: left
       contents: 
+        - "---"
+        - section: "Analysis Plan and Preregistration"
+          contents: 
+            - text: "Analysis plan"
+              href: docs/psychgen_wiki/analysis_plan.qmd
+            - text: "Preregistration"
+              href: docs/psychgen_wiki/preregistration.qmd
         - "---"
         - section: "Working in p471"
           contents:
@@ -66,13 +75,9 @@ website:
                 - text: "Using HPC"
                   href: docs/psychgen_wiki/using_hpc.qmd
         - "---"
-        - section: "Imports/exports, preregistration and publications"
+        - section: "Exports, publications and reporting"
           contents: 
-            - text: "Analysis plan"
-              href: docs/psychgen_wiki/analysis_plan.qmd
-            - text: "Preregistration"
-              href: docs/psychgen_wiki/preregistration.qmd
-            - text: "Import and Export"
+            - text: "Export"
               href: docs/psychgen_wiki/export.qmd
             - text: "Publication checklist"
               href: docs/psychgen_wiki/checklist.qmd

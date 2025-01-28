@@ -22,7 +22,7 @@ Once you log onto your TSD windows machine you can set up your project’s data 
 
 2.  [Map the project home directories to a drive](https://www.uio.no/english/services/it/research/sensitive-data/help/windows-shortcuts.html): `//ess01/p471/data/durable`
 
-### **Project home directories**
+## **Project home directories**
 
 The home directory for our project on the Windows side (you mapped the drive for this above) is located at: **\>drive letter you chose during mapping\</data/durable.**
 
@@ -50,10 +50,18 @@ The standard software for analysis in MoBa are **R and Stata**. If a program you
 
 For those of you more familiar with SPSS, SPSS data files are available and can be opened through R without needing SPSS (recommend using the `read_spss()` function from the `{haven}` package). SPSS only works for University of Oslo employees who get it for free, others need a license to use it in TSD. The MoBa phenotype data folder also contains Stata files.
 
-### Available software
+## Available software
 
 An overview of available software on TSD is [here](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/software/).
 
 The standard software for analysis in MoBa are **R and Stata**. If a program you require is not listed in the available applications, it is worth contacting your MoBa collaborator to see whether it can be installed.
 
 For those of you more familiar with SPSS, SPSS data files are available and can be opened through R without needing SPSS (recommend using the `read_spss()` function from the `{haven}` package). SPSS only works for University of Oslo employees who get it for free, others need a license to use it in TSD. The MoBa phenotype data folder also contains Stata files.
+
+## Importing files to TSD
+
+It is likely you already have some scripts you want to run to conduct your analyses or some files you need to complete a task. In order to do this, you may want to import documents into TSD. Documentation on how to import data onto the TSD is available on TSD's [here](https://www.uio.no/english/services/it/research/sensitive-data/help/import-export.html).
+
+A few tips for importing data: When you import data be sure to specify the ‘group’ that the file will go into otherwise data will be uploaded into a ‘default’ folder which will be painful to find. Your group’s folder will be listed in the dropdown menu in the following format: p471-yourusernamehere-group.
+
+Once data has been imported, they will be found in the file-import folder. The path to this directory is: `/tsd/pXX/data/durable/file-import/pXX-member-group`. Where ‘XX’ refers to your specific group number (almost certainly p471).

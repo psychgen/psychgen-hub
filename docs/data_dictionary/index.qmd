@@ -3,4 +3,16 @@ title: "Data dictionary"
 format: html
 ---
 
-The Data Dictionary is a tool developed to help with the exploration of existing variables in the p471 project. 
+The Data Dictionary is a tool to help PsychGen members and collaborators browse existing variables in the p471 project. In the Data Dictionary, you can identify available variables from MoBa, SSB and KUHR that can be relevant for your research project. We recommend you to use the tool to create and download variable lists and tables to include in your analysis plan. You need to be an authorized user to access the Data Dictionary.
+
+If your account has already been authorized, you can access the Data Dictionary using this link: <https://psychgen.shinyapps.io/psychgen-data-dictionary/>
+
+::: callout-important
+# How to request access?
+
+1\) If you don't have a Posit account, you can create an account [here](https://login.shinyapps.io/register?redirect=%2Foauth%2Fauthorize%3Fclient_id%3Drstudio-shinyapps%26redirect_uri%3Dhttps%253A%252F%252Fwww.shinyapps.io%252Fauth%252Foauth%252Ftoken%26response_type%3Dcode%26scopes%3D%252A%26show_auth%3D0).
+
+2\) Send this [pre-filled email](mailto:Laurie%20Hannigan%20%3CLaurie.Hannigan@fhi.no%3E;%20Stian%20Barbo%20Valand%20%3CStianBarbo.Valand@fhi.no%3E;%20Alejandra%20Martinez%20Sanchez%20%3CAlejandra.Martinez.Sanchez@fhi.no%3E;%20Laura%20Hegemann%20%3CLaura.Elizabeth.Hegemann@fhi.no%3E?subject=Data%20Dictionary%20Access%20Request%20&body=Hi%2C%20%0AI%20want%20to%20request%20access%20to%20the%20Data%20Dictionary%20tool.%0A%0AEmail%20address%20-Posit%20account%3A%20) specifying the **email address associated with your Posit account.**
+
+3\) You will receive an invitation email with a link to the shiny application. It is important that you **follow the link in the email** to successfully authorize your user.
+:::
