@@ -1,5 +1,6 @@
 ---
-title: "Coming soon..."
+title: "Data dictionary"
 format: html
 ---
 
+The Data Dictionary is a tool developed to help with the exploration of existing variables in the p471 project. 
