@@ -24,16 +24,26 @@ Personal data is all information on the individual level. This is either results
 
 ### Export requests e-mail template
 
-1.  [Please use this pre-filled e-mail template](mailto:stianbarbo.valand@fhi.no,helga.ask@fhi.no,Laurie.Hannigan@fhi.no,Alexandra.Havdahl@fhi.no?body=TSD%20path:) when requesting files
+1.  [Please use this pre-filled e-mail template](mailto:stianbarbo.valand@fhi.no;helga.ask@fhi.no;Laurie.Hannigan@fhi.no;Alexandra.Havdahl@fhi.no?body=TSD%20path:) when requesting files.
 
 <!-- -->
 
 2.  Please copy the table below into your request e-mail:
 
 | Filename (similar files may be grouped for convenience) | Contents | Reason | I confirm that there is no personal data in the exported file request |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Example.txt | Summary of results for... | Inclusion in manuscript | Confirmed |
 | Figure 1.pdf | Network plots | Inclusion in Supplementary Materials | Confirmed |
 |  |  |  |  |
 
 3.  Attach your approved analytical plan
+
+::: {.callout-note appearance="minimal" icon="false"}
+## Pre-filled e-mail not working?
+
+Send export request e-mail to the following: **StianBarbo.Valand\@fhi.no; Alexandra.Havdahl\@fhi.no; Helga.Ask\@fhi.no**
+
+-TSD path:
+
+-Copy the table in point 2
+:::
