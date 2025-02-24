@@ -4,13 +4,15 @@ title: "Publication checklist"
 
 When you are finishing your manuscript, please make sure you follow this checklist and submit your manuscript for final approval by the PsychGen executive committee.
 
-1.  If you have used phenotypic or genetic data from MoBa Ensure you follow MoBa publication guidelines.
+1.  If you have used GWAS summary statistics/polygenic scores - make sure these have been approved for submission/publication.
 
-2.  If you have used genetic data from MoBa, cite the MoBaPsychGen QC article. Please find the correct citation here: https://doi.org/10.1101/2022.06.23.496289
+2.  If you have used phenotypic or genetic data from MoBa Ensure you follow [MoBa publication guidelines](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/checklist-for-papers/).
 
-3.  Make sure all authors funding sources are correctly specified. PsychGen staff, please see the list in [Central Station](https://folkehelse.sharepoint.com/:x:/r/sites/2358/Delte%20dokumenter/General/PsychGen%20Center%20admin/PsychGen%20projects%20funding%20overview.xlsx?d=w2dfca8a1a2034c56a89fcab25cd58cd7&csf=1&web=1&e=nlh00I).
+3.  If you have used genetic data from MoBa, cite the MoBaPsychGen QC article. Please find the correct citation here: https://doi.org/10.1101/2022.06.23.496289
 
-4.  Acknowledgment of additional data sources: If your approved analysis plan proposal includes data from other sources than MoBa (national registries), ensure that you follow their respective requirements for describing the data source and acknowledgments.
+4.  Make sure all authors funding sources are correctly specified. PsychGen staff, please see the list in [Central Station](https://folkehelse.sharepoint.com/:x:/r/sites/2358/Delte%20dokumenter/General/PsychGen%20Center%20admin/PsychGen%20projects%20funding%20overview.xlsx?d=w2dfca8a1a2034c56a89fcab25cd58cd7&csf=1&web=1&e=nlh00I).
+
+5.  Acknowledgment of additional data sources: If your approved analysis plan proposal includes data from other sources than MoBa (national registries), ensure that you follow their respective requirements for describing the data source and acknowledgments.
 
     **NPR (national patient registry)**
 
@@ -37,12 +39,12 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
     "The computations/simulations/\[SIMILAR\] were performed on resources provided by Sigma2 - the National Infrastructure for High-Performance Computing and Data Storage in Norway."
 
-5.  Submitting to the PsychGen EC group Please fill out this [prefilled email](mailto:stianbarbo.valand@fhi.no;helga.ask@fhi.no;Alexandra.Havdahl@fhi.no?body=First%20Author%3A%0A%0AArticle%20title%3A%0A%0ACompleted%20MoBa%20Checklist%3F%3A%0A%0ACited%20MoBaPsychGen%20QC%20paper%3F%3A%0A%0AAcknowledged%20other%20data%20sources%3F%3A%0A%0AAcknowledged%20TSD%3F%3A%0A%0AAcknowledged%20HPC/Colossus/Sigma%3F%3A%0A%0ATSD%20path%20to%20code%3A%0A%0ACleaned%20up%20your%20project%20folder%20on%20TSD%3F%3A%0A%0A) and send the manuscript along with the approved analysis plan to PsychGen EC four weeks before you aim to preprint or submit it to a journal.
+6.  Submitting to the PsychGen EC group Please fill out this [prefilled email](mailto:stianbarbo.valand@fhi.no;helga.ask@fhi.no;Alexandra.Havdahl@fhi.no?body=First%20Author%3A%0A%0AArticle%20title%3A%0A%0ACompleted%20MoBa%20Checklist%3F%3A%0A%0ACited%20MoBaPsychGen%20QC%20paper%3F%3A%0A%0AAcknowledged%20other%20data%20sources%3F%3A%0A%0AAcknowledged%20TSD%3F%3A%0A%0AAcknowledged%20HPC/Colossus/Sigma%3F%3A%0A%0ATSD%20path%20to%20code%3A%0A%0ACleaned%20up%20your%20project%20folder%20on%20TSD%3F%3A%0A%0A) and send the manuscript along with the approved analysis plan to PsychGen EC four weeks before you aim to preprint or submit it to a journal.
 
     The PsychGen EC should approve all publications using data from the PsychGen project before preprint or submission to a journal, to ensure the analysis plan proposal has been followed.
 
-6.  Upon publication The first author is responsible for alerting the EC when the paper is published so they can send it to MoBa and the NIPH library for registration in the Norwegian Current Research Information System in Norway (Cristin) for reporting purposes.
+7.  Upon publication The first author is responsible for alerting the EC when the paper is published so they can send it to MoBa and the NIPH library for registration in the Norwegian Current Research Information System in Norway (Cristin) for reporting purposes.
 
-    You should register your publication on CRISTIN, and remeber to report SIGMA usage on CRISTIN: Cristin reporting help page.
+    You should register your publication on CRISTIN, and remeber to report SIGMA usage on CRISTIN: [Cristin reporting help page.](https://www.cristin.no/english/resources/reporting-instructions/)
 
-7.  Clean up on TSD. Once your article is published you should clean up your project folder on TSD. Delete large unnecessary data files. Please keep all your scripts in the folder.
+8.  Clean up on TSD. Once your article is published you should clean up your project folder on TSD. Delete large unnecessary data files. Please keep all your scripts in the folder.
