@@ -14,5 +14,7 @@ If your account has already been authorized, you can access the Data Dictionary 
 
 2\) Send this [pre-filled email](mailto:Laurie%20Hannigan%20%3CLaurie.Hannigan@fhi.no%3E;%20Stian%20Barbo%20Valand%20%3CStianBarbo.Valand@fhi.no%3E;%20Alejandra%20Martinez%20Sanchez%20%3CAlejandra.Martinez.Sanchez@fhi.no%3E;%20Laura%20Hegemann%20%3CLaura.Elizabeth.Hegemann@fhi.no%3E?subject=Data%20Dictionary%20Access%20Request%20&body=Hi%2C%20%0AI%20want%20to%20request%20access%20to%20the%20Data%20Dictionary%20tool.%0A%0AEmail%20address%20) including the email address you want us to use for the invitation link.
 
+Please make sure the email is sent to all of the Tools and Infrastructure WG: Laurie.Hannigan@fhi.no; StianBarbo.Valand@fhi.no; Alejandra.Martinez.Sanchez@fhi.no; Laura.Elizabeth.Hegemann@fhi.no
+
 3\) You will receive an invitation email with a link to the shiny application. It is important that you **follow the link in the email** to successfully authorize your user.
 :::
