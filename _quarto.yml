@@ -5,6 +5,12 @@ language:
   search-text-placeholder: Search
   
 website:
+  announcement: # for announcement bar
+    icon: megaphone-fill # for announcement bar
+    dismissable: true # for announcement bar
+    content: "A new version of **{genotools}** is out! Check out the new vignette in the section 'Working with genetic data'" # for announcement bar
+    type: danger # for announcement bar
+    position: below-navbar # for announcement bar
   title: "PsychGen Hub"
   site-url: "https://psychgen-test.netlify.app"
   favicon: logo.png

@@ -1,6 +1,0 @@
----
-website:
-  announcement: 
-    content: "New version of **{genotools}** - is out! Check out the new vignette in the section 'Working with genetic data'!" 
-    position: below-navbar 
----
