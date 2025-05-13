@@ -1,6 +1,7 @@
 ---
 title: "News and updates"
-format: html
+listing:
+  type: table
 ---
 
 Here you can find information about the latest updates to phenotools, genotools and available data in p471!

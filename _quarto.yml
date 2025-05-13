@@ -25,7 +25,7 @@ website:
     collapse-bellow: lg
     left:
       - text: "News and updates"
-        href: docs/psychgen_wiki/news.qmd
+        href: docs/psychgen_wiki/news/news.qmd
       - text: "Wiki"
         href: docs/psychgen_wiki/analysis_plan.qmd
       - text: "Data dictionary"

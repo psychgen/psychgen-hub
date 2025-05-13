@@ -1,0 +1,10 @@
+---
+title: "New version of {genotools} is out"
+format: html
+date: 05/13/2025
+date-format: full
+---
+
+The new testing version of 0.3.1 implements a new pipeline using ldpred2 as the primary software for making scores. Recommended QC of summary statistics prior to estimating weights in ldpred2 is also added. Most downstream functions (fetch_pgs, etc) are backwards compatible with prsice2.
+
+For more information read the full vignette in the [Using genetic data section](../geno_vignette.qmd)
