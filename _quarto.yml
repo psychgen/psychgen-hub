@@ -5,12 +5,12 @@ language:
   search-text-placeholder: Search
   
 website:
-  announcement: # for announcement bar
-    icon: megaphone-fill # for announcement bar
-    dismissable: true # for announcement bar
-    content: "A new version of **{genotools}** is out! Check out the new vignette in the section 'Working with genetic data'" # for announcement bar
-    type: danger # for announcement bar
-    position: below-navbar # for announcement bar
+  # announcement: # for announcement bar
+  #   icon: megaphone-fill # for announcement bar
+  #   dismissable: true # for announcement bar
+  #   content: "A new version of **{genotools}** is out! Check out the new vignette in the section 'Working with genetic data'" # for announcement bar
+  #   type: danger # for announcement bar
+  #   position: below-navbar # for announcement bar
   title: "PsychGen Hub"
   site-url: "https://psychgen-test.netlify.app"
   favicon: logo.png
@@ -24,12 +24,13 @@ website:
     background: primary
     collapse-bellow: lg
     left:
-      - text: "News and updates"
+      - text: "News"
         href: docs/psychgen_wiki/news/news.qmd
       - text: "Wiki"
         href: docs/psychgen_wiki/analysis_plan.qmd
       - text: "Data dictionary"
         href: docs/data_dictionary
+      - text: "Data documentation"
       - text: "Github"
         href: https://github.com/psychgen
         target: _blank
@@ -59,29 +60,29 @@ website:
         - "---"
         - section: "Working in p471"
           contents:
-            - href: docs/psychgen_wiki/tsd_gettingstarted.qmd
-            - section: "Data analysis in p471"
+            - text: "TSD"
+              href: docs/psychgen_wiki/tsd_gettingstarted.qmd
+            - text: "Code of conduct"
+              href: docs/psychgen_wiki/data_gettingstarted.qmd
+            - text: "Setting up a new analytical project"
+              href: docs/psychgen_wiki/analytic_project.qmd
+            - text: "Enabling Git in RStudio"
+              href: docs/psychgen_wiki/git.qmd
+            - text: "Using HPC"
+              href: docs/psychgen_wiki/using_hpc.qmd
+            - section: "Working with questionnaire data"
+              contents:
+                - text: "Using MoBa questionnaire and linked registry data"
+                  href: docs/psychgen_wiki/pheno_data.qmd
+                - text: "{phenotools} vignette"
+                  href: docs/psychgen_wiki/pheno_vignette.qmd
+            - section: "Working with genetic data"
               contents: 
-                - text: "Code of conduct"
-                  href: docs/psychgen_wiki/data_gettingstarted.qmd
-                - text: "Setting up a new analytical project"
-                  href: docs/psychgen_wiki/analytic_project.qmd
-                - text: "Enabling Git in RStudio"
-                  href: docs/psychgen_wiki/git.qmd
-                - section: "Working with phenotypic data"
-                  contents:
-                    - text: "Using MoBa phenotype and linked registry data"
-                      href: docs/psychgen_wiki/pheno_data.qmd
-                    - text: "{phenotools} vignette"
-                      href: docs/psychgen_wiki/pheno_vignette.qmd
-                - section: "Working with genetic data"
-                  contents: 
-                    - text: "Using MoBa genetic data"
-                      href: docs/psychgen_wiki/genetic_data.qmd
-                    - text: "{genotools} vignette"
-                      href: docs/psychgen_wiki/geno_vignette.qmd
-                - text: "Using HPC"
-                  href: docs/psychgen_wiki/using_hpc.qmd
+                - text: "Using MoBa genetic data"
+                  href: docs/psychgen_wiki/genetic_data.qmd
+                - text: "{genotools} vignette"
+                  href: docs/psychgen_wiki/geno_vignette.qmd
+            - section: "Working with registry data"
         - "---"
         - section: "Exports, publications and reporting"
           contents: 
@@ -89,7 +90,7 @@ website:
               href: docs/psychgen_wiki/export.qmd
             - text: "Publication checklist"
               href: docs/psychgen_wiki/checklist.qmd
-            - text: "Reporting to CRISTIN"
+            - text: "Reporting to NVA"
               href: docs/psychgen_wiki/ReportingCristin.qmd 
         - "---"      
         - section: "Other resources"

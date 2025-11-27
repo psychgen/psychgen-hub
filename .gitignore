@@ -10,3 +10,4 @@ docs/old/
 
 /.quarto/
 /_site/
+**/*.quarto_ipynb

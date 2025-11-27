@@ -1,23 +1,9 @@
-# Reporting publication to Cristin
+# Reporting publication to NVA
 
-The first author should report articles to Cristin
+The first author should report articles to NVA (Norwegian Research Information Repository). If you are affiliated with a Norwegian research institution, you can follow the guides on NVA: [NVA Help Center](https://sikt.no/en/tjenester/nasjonalt-vitenarkiv-nva/hjelpeside-nva)
 
-### Registering your publication in Cristin
+For NIPH employees, you need to use FEIDE to log in into NVA and register projects: [NVA](https://nva.sikt.no/)
 
-If you are not affiliated with a Norwegian research institution you can e-mail your publication to the NIPH library and ask if they can registre it biblioteket\@fhi.no - cc the following: StianBarbo.Valand\@fhi.no; Alexandra.Havdahl\@fhi.no; Helga.Ask\@fhi.no
-
-If you are affiliated with a Norwegian research institution, you can follow the guides on Cristin: <https://www.cristin.no/english/> or <https://app.cristin.no/>.
-
-### Reporting funding numbers and SIGMA number
-
-1.  Please see the [guidelines](https://www.cristin.no/english/resources/user-guides-and-documentation/registering-a-project-code-on-a-scientific-publication.pdf) on how to register the funding numbers in Cristin
-
-2.  Report the funding sources codes that are reported in the paper 
-
-    -   See [this link](https://folkehelse.sharepoint.com/:x:/r/sites/2358/Delte%20dokumenter/General/PsychGen%20Center%20admin/PsychGen%20projects%20funding%20overview.xlsx?d=w2dfca8a1a2034c56a89fcab25cd58cd7&csf=1&web=1&e=ERfMsU) below if you know there are some missing 
-
-3.  Add the Sigma2 project number if you have used HPC resources
-
-    -   **p471:** NS9791S
-
-    -   You add Sigma2 as a funding source ([please see this instruction](https://www.sigma2.no/reporting-usage-through-cristin))  
+::: callout-important
+-   It is not possible to delete projects (until further notice). If you want to test things, use [**https://test.nva.sikt.no/**](https://test.nva.sikt.no/)​
+:::
