@@ -4,7 +4,7 @@ about:
   image: img/niph.jpg
   links:
     - icon: twitter
-      text: twitter
+      text: X
       href: https://x.com/PsychGenNIPH
     - icon: github
       text: Github
