@@ -13,7 +13,7 @@ Most users will need to access MoBa questionnaire data for their analyses. If yo
 ::: callout-warning
 ## IMPORTANT NOTICE
 
-We periodically receive updates from MoBa that reflect participant withdrawals from the cohort. On receipt of a new "`SV_INFO`" file, we will notify all users via Teams and remove all withdrawn individuals from the central raw data files. **It is then all users' responsibility** to ensure that scripts are re-run and all interim data files in their analytic projects are recreated accordingly. Analyses that have been submitted, or are for publication do not need to be updated in this way.
+We periodically receive updates from MoBa that reflect participant withdrawals from the cohort. On receipt of a new “SV_INFO” file, we will notify all users via Teams and remove all withdrawn individuals from the central raw data files. All new analytic projects started after this notification should make use of these files. If you have started running analyses for a project, you are not obliged to recreate datasets/re-run analyses. However, if doing so is feasible without a considerable cost in terms of time, computing resources, etc, you should. If you are unsure on whether or not to remove individuals from an ongoing analysis, contact a member of the PsychGen EC, or (for external collaborators) your PsychGen contact person, for advice. 
 :::
 
 ### {phenotools} R package
