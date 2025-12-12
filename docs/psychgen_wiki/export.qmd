@@ -24,7 +24,7 @@ Personal data is all information on the individual level. This is either results
 
 ### Export requests e-mail template
 
-1.  [Please use this pre-filled e-mail template](mailto:stianbarbo.valand@fhi.no;Laura.Elizabeth.Hegemann\@fhi.no;helga.ask@fhi.no;Laurie.Hannigan@fhi.no;Alexandra.Havdahl@fhi.no?body=TSD%20path:) when requesting files.
+1.  [Please use this pre-filled e-mail template](mailto:stianbarbo.valand@fhi.no;Laura.Elizabeth.Hegemann@fhi.no;helga.ask@fhi.no;Laurie.Hannigan@fhi.no;Alexandra.Havdahl@fhi.no?body=TSD%20path:) when requesting files.
 
 <!-- -->
 
@@ -41,9 +41,9 @@ Personal data is all information on the individual level. This is either results
 ::: {.callout-note appearance="minimal" icon="false"}
 ## Pre-filled e-mail not working?
 
-Send export request e-mail to the following: **StianBarbo.Valand\@fhi.no; Alexandra.Havdahl\@fhi.no; Helga.Ask\@fhi.no; Laura.Elizabeth.Hegemann\@fhi.no>**
+Send export request e-mail to the following: **StianBarbo.Valand\@fhi.no; Alexandra.Havdahl\@fhi.no; Helga.Ask\@fhi.no; Laura.Elizabeth.Hegemann\@fhi.no; Laurie.Hannigan\@fhi.no\>**
 
-Please note that exporting is a time-consuming and high stakes endeavour for us that must be carried out alongside our other work. Our aim is to action all export requests within one week during non-holiday periods. Please be patient and plan your exports with this time lag in mind as far as possible. 
+Please note that exporting is a time-consuming and high stakes endeavour for us that must be carried out alongside our other work. Our aim is to action all export requests within one week during non-holiday periods. Please be patient and plan your exports with this time lag in mind as far as possible.
 
 -TSD path:
 

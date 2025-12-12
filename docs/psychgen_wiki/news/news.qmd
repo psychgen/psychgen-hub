@@ -2,6 +2,8 @@
 title: "News and updates"
 listing:
   type: table
+  contents: posts
+  feed: true
 ---
 
 Here you can find information about the latest updates to phenotools, genotools and available data in p471!
