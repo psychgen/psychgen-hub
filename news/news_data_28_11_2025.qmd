@@ -5,6 +5,6 @@ date: 11/27/2025
 date-format: full
 ---
 
-**A new SV_INFO file has been implemented on TSD, this will affect the number of participants in the available dataset.** 
+**A new SV_INFO file has been implemented on TSD, this will affect the number of participants in the available dataset.**
 
 We periodically receive updates from MoBa that reflect participant withdrawals from the cohort. On receipt of a new “SV_INFO” file, we will notify all users via Teams and remove all withdrawn individuals from the central raw data files. All new analytic projects started after this notification should make use of these files. If you have started running analyses for a project, you are not obliged to recreate datasets/re-run analyses. However, if doing so is feasible without a considerable cost in terms of time, computing resources, etc, you should. If you are unsure on whether or not to remove individuals from an ongoing analysis, contact a member of the PsychGen EC, or (for external collaborators) your PsychGen contact person, for advice!

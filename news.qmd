@@ -1,8 +1,7 @@
 ---
 title: "News and updates"
 listing:
-  type: table
-  contents: posts
+  contents: news
   feed: true
 ---
 
