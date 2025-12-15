@@ -1,10 +1,9 @@
 ---
 title: "Important: TSD Account Expiration Notice"
 format: html
-date: 11/27/2025
-date-format: full
+date: last-modified
 ---
 
 If you receive a message about your TSD account expiring when trying to log in, don’t worry—this is a standard yearly security measure. Your password needs to be reset.
 
-You will need to book a meeting time (approx. 15 minutes) to reset your TSD password. **Please check the Teams channel for further instructions.** 
+You will need to book a meeting time (approx. 15 minutes) to reset your TSD password. **Please check the Teams channel for further instructions.**
