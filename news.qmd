@@ -5,4 +5,5 @@ listing:
   feed: true
 ---
 
-Here you can find information about the latest updates to phenotools, genotools and available data in p471!
+Here you can find information about the latest updates to phenotools, genotools and available data in p471! 
+

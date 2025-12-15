@@ -99,8 +99,6 @@ website:
   page-footer:
     background: light 
     right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
-  # margin-header: subscribe.html
-      
 format:
   html:
     theme: 

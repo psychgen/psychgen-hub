@@ -12,12 +12,16 @@ about:
       href: https://github.com/psychgen
 ---
 
+The PsychGen Centre is an interdisciplinary research environment dedicated to advancing knowledge about mental health. To learn more about the PsychGen center, you can visit its [NIPH website](https://www.fhi.no/en/me/the-psychgen-centre-for-genetic-epidemiology-and-mental-health/).
+
 ::: callout-important
 ## Contribute
 
 Please help to maintain the wiki by reporting broken links or out-of-date information. Open an issue in the website's Github [repository](https://github.com/psychgen/psychgen-website/issues) including the relevant section/information.
 :::
 
-In the Hub you can find relevant information regarding working with data in p471, including the use of TSD, Colossus, phenotypic and genetic data.
+In the Hub you can find relevant information regarding working with data in p471, including the use of TSD, Colossus, phenotypic and genetic data. Sign up to our newsletter to keep up to date with the latest updates!
 
-The PsychGen Centre is an interdisciplinary research environment dedicated to advancing knowledge about mental health. To learn more about the PsychGen center, you can visit its [NIPH website](https://www.fhi.no/en/me/the-psychgen-centre-for-genetic-epidemiology-and-mental-health/).
+<iframe align="left" width="780" height="300" src="./subscribe.html">
+
+</iframe>
