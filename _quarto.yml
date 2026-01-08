@@ -6,7 +6,7 @@ language:
   
 website:
   title: "PsychGen Hub"
-  site-url: "https://psychgen-test.netlify.app"
+  site-url: "https://psychgen.netlify.app"
   description: "PsychGen Website"
   favicon: logo.png
   page-navigation: true
