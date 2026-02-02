@@ -5,5 +5,5 @@ title: "Analysis plan"
 To propose a publication based on data in the p471 project, download and fill out the form below. The PsychGen executive committe will review and assess your proposal. 
 
 ::: {style="text-align: left;"}
-<p><a href="analysis_plan/Analysis_plan_PsychGen_Template_v5.docx" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+<p><a href="analysis_plan/Analysis_plan_PsychGen_Template_v6.docx" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
 :::
