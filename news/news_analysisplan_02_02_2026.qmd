@@ -1,7 +1,7 @@
 ---
 title: "New analysis plan template for new project proposals (v6)"
 format: html
-date: 05/13/2025
+date: 02/02/2026
 date-format: full
 ---
 
