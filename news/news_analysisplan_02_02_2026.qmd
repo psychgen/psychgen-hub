@@ -7,4 +7,4 @@ date-format: full
 
 We have updated the analysis plan template that should be used for proposing new analytic projects using data in the PsychGen p471 project.
 
-Please replace any locally saved versions with, and from here on make use of, the version available in the [Analysis plan section](../analysis_plan.qmd) of the wiki.
+Please replace any locally saved versions with, and from here on make use of, the version available in the [Analysis plan section](https://psychgen.netlify.app/docs/psychgen_wiki/analysis_plan.html) of the wiki.
