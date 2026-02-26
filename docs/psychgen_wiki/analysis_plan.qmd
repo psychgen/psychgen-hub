@@ -2,8 +2,19 @@
 title: "Analysis plan"
 ---
 
-To propose a publication based on data in the p471 project, download and fill out the form below. The PsychGen executive committe will review and assess your proposal. 
+To propose a publication based on data in the p471 project, download and fill out the form below. 
 
 ::: {style="text-align: left;"}
 <p><a href="analysis_plan/Analysis_plan_PsychGen_Template_v6.docx" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
 :::
+
+To submit your plan, please send via email to the PsychGen executive committee (currently Alexandra Havdahl <Alexandra.Havdahl@fhi.no>; Helga Ask <Helga.Ask@fhi.no>; Laurie Hannigan <Laurie.Hannigan@fhi.no>; Stian Barbo Valand <StianBarbo.Valand@fhi.no>; Ragna Bugge Askeland <RagnaBugge.Askeland@fhi.no>), cc-ing in the PI of your project if you are an external collaborator. 
+
+Below is an overview of the process that follows, and the anticipated timeline for data access.
+ 
+1. Initial EC review of analysis plan - here we check details of the institutional collaboration agreement under which this analysis plan is covered, to verify that its scope and duration cover the proposed project, as well as ensuring the plan is within the PsychGen project’s approved research aims and is distinct from other ongoing work
+2. Assignment of PsychGen contact person for the project, and revision(s) of analysis plan - during this part of the process, you may be asked to revise elements of the plan in collaboration with a member of the PsychGen team who will act as your main contact person for the duration of this project (typically someone you already work with, or else an experienced member of the group with relevant interests and expertise)
+3. Approval and return of analysis plan - when the final version of the plan is approved, it will be returned to you by our project coordinator(s) signed by a representative of the EC. This version will be the one on record for us, and should be used in future when requesting exports. Any significant amendments must be submitted to the EC for approval prior to being implemented
+4. New users reported to REK and set up on TSD - if you, or anyone else mentioned on the approved analysis plan as needing access to data have not previously been reported to the ethical committee (REK), or set up as a user of the secure computing platform TSD, this will happen now, and must be completed before data access can occur
+ 
+We aim to complete steps 1-3 within two weeks, after which applicants with existing TSD access can start analyses. Step 4 can take 4-8 weeks depending on the response time from the REK, so please account for this in your timeline.
