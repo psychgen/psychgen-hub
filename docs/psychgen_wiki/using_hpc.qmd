@@ -2,7 +2,13 @@
 title: "Using HPC"
 ---
 
-Colossus is the TSD HPC cluster and is offered by UiO in collaboration with Sigma2 AS. [UiO's Colossus User Guide](https://www.uio.no/english/services/it/research/sensitive-data/help/hpc/colossus-userguide.html) includes detailed information about accessing and working with Colossus.
+Colossus is the TSD HPC cluster and is offered by UiO in collaboration with Sigma2 AS. [UiO's Colossus User Guide](https://docs.hpc.uio.no/hardware/colossus.html) includes detailed information about working with Colossus.
+
+### Getting started ### 
+
+The easiest way to access the HPC is by using Putty (found on the desktop) - check out [this userguide](https://www.uio.no/english/services/it/research/sensitive-data/help/hpc/windows-user.html) if you need help. 
+
+Check out [this guide](https://docs.hpc.uio.no/getting_started/R.html) for submitting your first R job 
 
 ::: callout-important
 Carefully read the UiO Colossus User Guide and this section before working with Colossus!
@@ -12,7 +18,7 @@ Carefully read the UiO Colossus User Guide and this section before working with 
 
 p471 has a quota of CPU hours on Colossus that's shared between all users. The quota is renewed every six months upon application from us. Please avoid the following:
 
-1.  Use "--account=p471" when submitting jobs. This uses our Sigma allocation and ensures lower costs. Do not use TSD allocation  "--account=p471_tsd"
+1.  Use "--account=p471" when submitting jobs. This uses our Sigma allocation and ensures lower costs. Do NOT use TSD allocation  "--account=p471_tsd"
 
 2.  Do not use old scrips made for other HPCs
 
@@ -34,9 +40,13 @@ p471 has a quota of CPU hours on Colossus that's shared between all users. The q
 
 If your analysis requires a large amount of either memory or cores, please contact us and we can review your needs.
 
+
+
 -   **I need help optimizing code or have questions**
 
 Contact us on Teams or by e-mail if you need help optimizing your code or have any questions!
+
+
 
 -   **Get more information before starting**
 
