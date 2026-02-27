@@ -40,14 +40,6 @@ p471 has a quota of CPU hours on Colossus that's shared between all users. The q
 
 If your analysis requires a large amount of either memory or cores, please contact us and we can review your needs.
 
-
-
 -   **I need help optimizing code or have questions**
 
 Contact us on Teams or by e-mail if you need help optimizing your code or have any questions!
-
-
-
--   **Get more information before starting**
-
-You can find getting started information here: [Getting started (sigma2.no)](https://documentation.sigma2.no/getting_started/getting_started.html)
