@@ -1,0 +1,24 @@
+---
+title: "New and updated data from MoBa"
+format: html
+date: 03/05/2026
+date-format: full
+---
+
+**Data updates.**
+
+We are in the process of gradually releasing new data that we have received.
+
+Today we are releasing new and updated data from MoBa.
+
+Updated data:
+- MoBaUng
+- Ungdom kosthold
+- Q4–Q6
+
+New data:
+- Q18 years
+- Q19 years
+- Q20 years
+
+For the new data please note that the number of individuals is small due to ongoing data collection.
