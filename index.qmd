@@ -21,7 +21,3 @@ Please help to maintain the wiki by reporting broken links or out-of-date inform
 :::
 
 In the Hub you can find relevant information regarding working with data in p471, including the use of TSD, Colossus, phenotypic and genetic data. Sign up to our newsletter to keep up to date with the latest updates!
-
-<iframe align="left" width="780" height="300" src="./subscribe.html">
-
-</iframe>
