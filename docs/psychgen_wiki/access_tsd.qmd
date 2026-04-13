@@ -1,12 +1,10 @@
 ---
-title: "Accessing TSD outside your country"
+title: "Accessing TSD outside your country of residence"
 ---
 
 In this section you can find information about the usage of TSD outside of your resident contry
 
 ------------------------------------------------------------------------
-
-## Accessing TSD outside your country of residence 
 
 For data protection reasons, you are not allowed to access or use TSD from outside the European Union (for example when traveling or staying in a non‑EU country) 
 unless you have obtained explicit written approval from the PsychGen EC in advance. This includes logging in to TSD, running analyses, or viewing any data 
