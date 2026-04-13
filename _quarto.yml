@@ -59,6 +59,8 @@ website:
           contents:
             - text: "TSD"
               href: docs/psychgen_wiki/tsd_gettingstarted.qmd
+            - text: "TSD outside EU"
+              href: docs/psychgen_wiki/access_tsd.qmd
             - text: "Code of conduct"
               href: docs/psychgen_wiki/data_gettingstarted.qmd
             - text: "Setting up a new analytical project"
