@@ -3,10 +3,19 @@ title: "Getting started with Services for Sensitive Data (TSD)"
 ---
 
 ::: callout-important
+## Accessing TSD outside your country of residence 
+
+For data protection reasons, you are not allowed to access or use TSD from outside the European Union (for example when traveling or staying in a non‑EU country) 
+unless you have obtained explicit written approval from the PsychGen EC in advance. This includes logging in to TSD, running analyses, or viewing any data 
+through TSD while you are physically outside the EU. 
+
+:::
+::: callout-note
 ## Need further help?
 
 Please contact TSD's [technical support](https://www.uio.no/english/services/it/research/sensitive-data/contact/). You can also check the relevant [Teams channel](https://teams.microsoft.com/l/channel/19%3Aafcd527bae1f40f389046cb05addb401%40thread.tacv2/TSD%20issues?groupId=ef823ab8-2aa6-4001-83c0-f35ae8b2bfbc&tenantId=54475f80-1baa-4ea9-9185-c0de5cc603fe) to check the status and known issues of the project.
 :::
+
 
 In order to access and analyse MoBa data you must become familiar with the Services for Sensitive Data (TSD) platform. A guide to the TSD is available [here](https://www.uio.no/english/services/it/research/sensitive-data/help/). TSD is a secure network that allows for UiO researchers and other collaborating institutions to share access to large amounts of sensitive data. If you have not already received TSD access contact your designated PsychGen contact person or the project coordination team.
 
