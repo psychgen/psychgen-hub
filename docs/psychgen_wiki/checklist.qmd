@@ -2,7 +2,7 @@
 title: "Publication checklist"
 ---
 
-When you are finishing your manuscript, please make sure you follow this checklist and submit your manuscript for final approval by the PsychGen executive committee.
+When you are finishing your manuscript, please make sure you follow this checklist:
 
 1.  If you have used GWAS summary statistics/polygenic scores - make sure these have been approved for submission/publication.
 
@@ -10,9 +10,11 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
 3.  If you have used genetic data from MoBa, cite the MoBaPsychGen QC article. Please find the correct citation here: https://doi.org/10.1101/2022.06.23.496289
 
-4.  Make sure all authors funding sources are correctly specified. PsychGen staff, please see the list in [Central Station](https://folkehelse.sharepoint.com/:x:/r/sites/2358/Delte%20dokumenter/General/PsychGen%20Center%20admin/PsychGen%20projects%20funding%20overview.xlsx?d=w2dfca8a1a2034c56a89fcab25cd58cd7&csf=1&web=1&e=nlh00I).
+4.  Make sure all authors funding sources are correctly specified. 
 
-5.  Acknowledgment of additional data sources: If your approved analysis plan proposal includes data from other sources than MoBa (national registries), ensure that you follow their respective requirements for describing the data source and acknowledgments.
+5.  Please include the following text to acknowledge data management efforts in PsychGen/p471: "We acknowledge the contribution of PsychGen Centre members providing essential data management and coordination to facilitate this research."
+
+6.  Acknowledgment of additional data sources: If your approved analysis plan proposal includes data from other sources than MoBa (national registries), ensure that you follow their respective requirements for describing the data source and acknowledgments.
 
     **NPR (national patient registry)**
 
@@ -39,6 +41,6 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
     "The computations/simulations/\[SIMILAR\] were performed on resources provided by Sigma2 - the National Infrastructure for High-Performance Computing and Data Storage in Norway."
 
-6.  The designated PsychGen contact person (defined on the analysis plan) must approve the publication before preprint or submission to a journal, to ensure the analysis plan proposal and PsychGen guidelines has been followed. Significant discrepancies between the analysis plan and resulting manuscript may be flagged to the PsychGen executive committee (EC) for review.
+7.  **The designated PsychGen contact person (defined on the analysis plan) must approve the publication before preprint or submission to a journal**, to ensure the analysis plan proposal and PsychGen guidelines has been followed. Significant discrepancies between the analysis plan and resulting manuscript may be flagged to the PsychGen executive committee (EC) for review prior to submission.
 
-7.  Clean up on TSD. Once your article is published you should clean up your project folder on TSD. Delete large unnecessary data files. Please keep all your scripts in the folder.
+8.  Clean up on TSD. Once your article is published you should clean up your project folder on TSD. Delete large unnecessary data files. Please keep all your scripts in the folder.
