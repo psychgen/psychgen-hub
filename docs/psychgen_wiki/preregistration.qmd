@@ -16,7 +16,7 @@ In PsychGen, we encourage preregistration for all confirmatory analyses relying 
 
 Some exploratory analyses can also benefit from the thorough, up-front planning that comes with preregistration, but the statistical grounds for doing so are weaker - and more analytic flexibility is generally a requirement. 
 
-*How do I do I refer to my preregistration in a manuscript?*
+*How do I refer to my preregistration in a manuscript?*
 
 Please avoid:
  
