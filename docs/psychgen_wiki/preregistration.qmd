@@ -6,4 +6,35 @@ title: "Preregistration"
 
 A preregistration is a publicly available, time-stamped record of decisions around study design, methods and analysis, usually (but not always) created before data is collected or becomes available. Recently, it has been argued that preregistration is also helpful when you have secondary data. You can find a template for preregistration [here](https://osf.io/35h7j/)
 
+*How do I preregister?*
 
+If using the OSF architecture (currently recommended), make sure you create your preregistration via OSF Registries > Add a registration (https://osf.io/registries/osf/new). Files attached to OSF projects are not equivalent to preregistrations and do not receive DOIs. If using the template above, you may wish to select "open-ended registration" and simply upload the completed template and add a description. Alternatively, you can select the OSF secondary data preregistration template and fill in information in relevant fields manually.
+
+*When should I preregister?*
+
+In PsychGen, we encourage preregistration for all confirmatory analyses relying on null hypothesis significance testing for inference (i.e., ultimately using and reporting frequentist p-values for any parameters/tests). You should ideally preregister prior to data access, or as early as possible - declaring the level of exposure to the data that you have had on the preregistration itself. If you have already substantively run all or parts of the analyses in question, you should not preregister.
+
+Some exploratory analyses can also benefit from the thorough, up-front planning that comes with preregistration, but the statistical grounds for doing so are weaker - and more analytic flexibility is generally a requirement. 
+
+*How do I do I refer to my preregistration in a manuscript?*
+
+Please avoid:
+ 
+"... as specified in the preregistration (https://osf.io/9xwzr/)."
+ 
+...as URLs are unstable over time. Instead, cite the preregistration including the DOI:
+ 
+"... as specified in the preregistration (Hannigan, 2025).
+ 
+In reference section:
+ 
+Hannigan, L. J. (2025, June 23). Paternal pre-conceptional sleep health and offspring neurodevelopment. https://doi.org/10.17605/OSF.IO/9XWZR"
+ 
+You can get the citation for an OSF preregistration in any format by expanding the "Citation" section at the bottom of the registration overview page using the down arrow on the right. 
+ 
+In Zotero, you can add the preregistration directly to your library by using by selecting "Add Item by Identifier" in the toolbar and inputting the DOI. NB: You may need to edit the order of authors, as OSF arranges these somewhat randomly.
+ 
+*Don't forget...*
+
+Mention that analyses are preregistered in your abstract and cover letter! This (justifiably) strengthens your research and conclusions in the eyes of editors, reviewers, and readers.
+Remember to include a deviation table (see https://doi.org/10.1177/25152459231213802) to account for discrepancies or necessary changes to preregistered plans.
