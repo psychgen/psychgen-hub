@@ -14,7 +14,7 @@ The goal of the psychgenR package is to streamline the process of getting from d
 
 ### Set-up
 
-1.  Navigate to the shared folder and open inst_psychgenr.Rproj in RStudio.
+1.  Navigate to the shared folder and open psychgenR.Rproj in RStudio.
 2.  Open install_pkg.R in RStudio and follow the instructions in the script:
 
 - Run the first section of the script
