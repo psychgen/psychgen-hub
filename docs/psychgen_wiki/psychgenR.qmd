@@ -3,3 +3,48 @@ title: "Introduction to the psychgenR package"
 format: html
 ---
 
+The goal of the psychgenR package is to streamline the process of getting from data to clear and compelling visualizations with consistent visual identity.
+
+## Installation in TSD
+
+### Prerequesites
+
+- Make sure you are currently using the latest version of R (version 4.5.2) installed in p471
+- You have access to the following folder in p471: "//ess01/P471/data/durable/common/software/psychgenR/"
+
+### Set-up
+
+1.  Navigate to the shared folder and open inst_psychgenr.Rproj in RStudio.
+2.  Open install_pkg.R in RStudio and follow the instructions in the script:
+
+- Run the first section of the script
+- **Restart your R session** (Session -\> Restart R)
+- Run the remaining section of the script
+
+3.  Verify the package installation
+
+``` R
+library(psychgenR)
+```
+
+### Troubleshooting 
+
+If you run into problems with the installation, please send an email to Alejandra or Laurie. When reaching out, please include a description of the step where it failed and note any error messages from the RStudio console!
+
+## Using the package 
+
+Once installed, the package documentation is fully accessible from TSD. To open it run:
+
+``` R
+open_documentation()
+```
+
+The documentation includes examples on how to use the package to efficiently style ggplot objects and tables.
+
+## Contributing and opening issues
+
+The package repository is currently private. To report a bug or request a feature you will need to be added as collaborator first. To request access:
+
+1.  Send your GitHub username to Laurie/Alejandra.
+2.  Once added, you will receive an email invitation from GitHub
+3.  You can then open issues directly in the repository
