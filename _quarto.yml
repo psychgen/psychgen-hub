@@ -25,7 +25,8 @@ website:
         href: docs/psychgen_wiki/analysis_plan.qmd
       - text: "Data dictionary"
         href: docs/data_dictionary
-      - text: "Data documentation"
+      - text: "psychgenR"
+        href: docs/psychgen_wiki/psychgenR.qmd
       - text: "Github"
         href: https://github.com/psychgen
         target: _blank
@@ -69,7 +70,7 @@ website:
               href: docs/psychgen_wiki/git.qmd
             - text: "Using HPC"
               href: docs/psychgen_wiki/using_hpc.qmd
-            - section: "Working with questionnaire data"
+            - section: "Working with phenotypic data"
               contents:
                 - text: "Using MoBa questionnaire and linked registry data"
                   href: docs/psychgen_wiki/pheno_data.qmd
@@ -81,7 +82,6 @@ website:
                   href: docs/psychgen_wiki/genetic_data.qmd
                 - text: "{genotools} vignette"
                   href: docs/psychgen_wiki/geno_vignette.qmd
-            - section: "Working with registry data"
         - "---"
         - section: "Exports, publications and reporting"
           contents: 
@@ -96,6 +96,8 @@ website:
           contents: 
             - text: "Logos"
               href: docs/psychgen_wiki/logos.qmd
+            - text: "Community resources"
+              href: docs/psychgen_wiki/community_res.qmd
           
 
   page-footer:
