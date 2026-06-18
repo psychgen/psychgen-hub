@@ -14,7 +14,9 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
 5.  Please include the following text to acknowledge data management efforts in PsychGen/p471: "We acknowledge the contribution of PsychGen Centre members providing essential data management and coordination to facilitate this research."
 
-6.  Acknowledgment of additional data sources: If your approved analysis plan proposal includes data from other sources than MoBa (national registries), ensure that you follow their respective requirements for describing the data source and acknowledgments.
+6.  If you have used the `phenotools` r package to prepare your data for analysis, please cite it as follows: "Hannigan, L. J., Corfield, E. C., Askelund, A. D., Askeland, R. B., Hegemann, L., Jensen, P., Pettersen, J. H., Rayner, C., Ayorech, Z., Bakken, N. R., Wootton, R. E., & Havdahl, A. (2023). phenotools: An R package to facilitate efficient and reproducible use of phenotypic data from MoBa and linked registry sources in the TSD environment. https://doi.org/10.17605/OSF.IO/6G8BJ"
+
+7.  Acknowledgment of additional data sources: If your approved analysis plan proposal includes data from other sources than MoBa (national registries), ensure that you follow their respective requirements for describing the data source and acknowledgments.
 
     **NPR (national patient registry)**
 
@@ -41,6 +43,6 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
     "The computations/simulations/\[SIMILAR\] were performed on resources provided by Sigma2 - the National Infrastructure for High-Performance Computing and Data Storage in Norway."
 
-7.  **The designated PsychGen contact person (defined on the analysis plan) must approve the publication before preprint or submission to a journal**, to ensure the analysis plan proposal and PsychGen guidelines has been followed. Significant discrepancies between the analysis plan and resulting manuscript may be flagged to the PsychGen executive committee (EC) for review prior to submission.
+8.  **The designated PsychGen contact person (defined on the analysis plan) must approve the publication before preprint or submission to a journal**, to ensure the analysis plan proposal and PsychGen guidelines has been followed. Significant discrepancies between the analysis plan and resulting manuscript may be flagged to the PsychGen executive committee (EC) for review prior to submission.
 
-8.  Clean up on TSD. Once your article is published you should clean up your project folder on TSD. Delete large unnecessary data files. Please keep all your scripts in the folder.
+9.  Clean up on TSD. Once your article is published you should clean up your project folder on TSD. Delete large unnecessary data files. Please keep all your scripts in the folder.
