@@ -14,7 +14,7 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
 5.  Please include the following text to acknowledge data management efforts in PsychGen/p471: "We acknowledge the contribution of PsychGen Centre members providing essential data management and coordination to facilitate this research."
 
-6.  If you have used the `phenotools` r package to prepare your data for analysis, please cite it as follows: "Hannigan, L. J., Corfield, E. C., Askelund, A. D., Askeland, R. B., Hegemann, L., Jensen, P., Pettersen, J. H., Rayner, C., Ayorech, Z., Bakken, N. R., Wootton, R. E., & Havdahl, A. (2023). phenotools: An R package to facilitate efficient and reproducible use of phenotypic data from MoBa and linked registry sources in the TSD environment. https://doi.org/10.17605/OSF.IO/6G8BJ"
+6.  If you have used the `phenotools` r package to prepare your data for analysis, please cite it as follows: "Hannigan, L. J., Corfield, E. C., Askelund, A. D., Askeland, R. B., Hegemann, L., Jensen, P., Pettersen, J. H., Rayner, C., Ayorech, Z., Bakken, N. R., Wootton, R. E., Ask, H., & Havdahl, A. (2023). phenotools: An R package to facilitate efficient and reproducible use of phenotypic data from MoBa and linked registry sources in the TSD environment. https://doi.org/10.17605/OSF.IO/6G8BJ"
 
 7.  Acknowledgment of additional data sources: If your approved analysis plan proposal includes data from other sources than MoBa (national registries), ensure that you follow their respective requirements for describing the data source and acknowledgments.
 
