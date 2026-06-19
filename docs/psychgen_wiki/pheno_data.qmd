@@ -23,7 +23,7 @@ The PaGe/PsychGen group has been developing an R package called [**phenotools**]
 On Windows you can install as follows (first check the common/software folder to see what the latest version is, replacing *x/y/z* below accordingly):
 
 ``` r
-   install.packages("//tsd-evs/p471/data/durable/common/software/phenotools_x.y.z.zip", 
+   install.packages("//ess01/p471/data/durable/common/software/phenotools_x.y.z.zip", 
                      repos=NULL,
                      type = "binary")
 ```
