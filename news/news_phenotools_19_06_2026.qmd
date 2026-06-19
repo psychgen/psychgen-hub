@@ -1,0 +1,12 @@
+---
+title: "{phenotools} 0.5.0 ready for use"
+format: html
+date: 05/13/2025
+date-format: full
+---
+
+An updated version of the phenotools packaged (0.5.0) is available and can be installed as described on [the GitHub](https://github.com/psychgen/phenotools). Please report any bugs there by raising an issue.
+
+You can see a summary of all the changes in the latest version [here](https://github.com/psychgen/phenotools/blob/master/NEWS.md).
+
+The most consequential of the changes is that you can now pull in variables from *any* file with MoBa ids. This means it should now be possible to curate your entire dataset from a `curate_datset()` call – including variables from questionnaires outside the core collections of Q1-Q14y previously supported by the package. For more information read the  vignette in the [Using phenotypic data section](../pheno_vignette.qmd) or by running `vignette("phenotools")` wherever you have the package installed.
