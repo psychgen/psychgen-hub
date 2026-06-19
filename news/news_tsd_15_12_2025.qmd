@@ -1,7 +1,8 @@
 ---
 title: "Important: TSD Account Expiration Notice"
 format: html
-date: last-modified
+date: 12/15/2025
+date-format: fulll
 ---
 
 If you receive a message about your TSD account expiring when trying to log in, don’t worry—this is a standard yearly security measure. Your password needs to be reset.
