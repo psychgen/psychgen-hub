@@ -1,0 +1,41 @@
+# Data documentation 
+::: callout-important
+Data documentation on specific data sources is located in the folder .../data/Data documentations/ on p471 TSD. 
+It contains important information from the data owner, that can be relevant for certian projects depending on what variables are used. We have not included it on this webpage as it can be sensitive. 
+The information is in Norwegian only. 
+:::
+
+The following is a short summary of the content of the data documentation. 
+
+## ABC-study (Autism birth cohort)
+- Excel document with overview of all avaliable variables in p471.
+
+## NPR (Norwegian Patient Registry)
+- Explanation of the difference between an episode and a hospital stay.
+- Important explanations of the dataset and limitations to certian variables from the data owner. This is mainly important if you are using other variables than the diagnostic codes. The document is only avaliable in Norwegian. Reach out to your PsychGen contact if you need help getting them translated or explained. 
+- Variables for the 2024 delivery (2026 are in the data dictionary) 
+
+## KPR (Norwegian Registry for Primary Health Care (NRPHC)
+- Note. These data add new years to the older KUHR dataset
+- Important explanations of the dataset and limitations to certian variables from the data owner. The document is only avaliable in Norwegian. Reach out to your PsychGen contact if you need help getting them translated or explained. 
+
+## KUHR (Norwegian Control and Payment of Health Reimbursements Database) 
+- Excel document with all variables in the dataset 
+
+## LMR (Norwegian Prescribed Drug Registry) 
+- Information from the data owner. 
+- Information on ATC kodes and variables
+
+## MoBa (Mother, Father and Child Cohort) 
+- Important considerations on dietary data
+- Information on caffeine calculations
+- Food groups in Q2CDW 
+- Food groups in Q diet youth 
+
+## MSIS and SYSVAK (Infection and vaccination registy) 
+- Variables from MSIS and SYSVAK 
+- Important information from the data owner related to the MSIS and SYSVAK data 
+
+## SSB (Statistics Norway) 
+- Overview the period each variable in the dataset covers, this varies between variabels. Some variables build on eachother. 
+- Use https://dataportal.ssb.no/ to look up specific variabels 
