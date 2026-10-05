@@ -8,7 +8,7 @@ When you are finishing your manuscript, please make sure you follow this checkli
 
 2.  If you have used phenotypic or genetic data from MoBa Ensure you follow [MoBa publication guidelines](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/checklist-for-papers/).
 
-3.  If you have used genetic data from MoBa, cite the MoBaPsychGen QC article. Please find the correct citation here: https://doi.org/10.1101/2022.06.23.496289
+3.  If you have used genetic data from MoBa, cite the MoBaPsychGen QC article. Please find the correct citation [here](https://doi.org/10.1038/s41586-026-10926-5).
 
 4.  Make sure all authors funding sources are correctly specified. 
 
