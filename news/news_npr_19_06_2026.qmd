@@ -1,11 +1,11 @@
 ---
-title: "New NPR data available (2008-2026)"
+title: "New NPR data available (2008-2025)"
 format: html
 date: 06/19/2026
 date-format: full
 ---
 
-Updated NPR data are now available, with follow-up from 2008-2026. 
+Updated NPR data are now available, with follow-up from 2008-2025. 
 
 The new files are accessed by default when using `phenotools 0.5.0` to curate datasets; raw files available in data/durable/data/NPR/processed.
 
