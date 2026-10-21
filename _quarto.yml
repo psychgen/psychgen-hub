@@ -76,6 +76,8 @@ website:
               contents:
                 - text: "Using MoBa questionnaire and linked registry data"
                   href: docs/psychgen_wiki/pheno_data.qmd
+                - text: "Standard covariates MoBa"
+                  href: docs/psychgen_wiki/covariate_file.qmd
                 - text: "{phenotools} vignette"
                   href: docs/psychgen_wiki/pheno_vignette.qmd
             - section: "Working with genetic data"
