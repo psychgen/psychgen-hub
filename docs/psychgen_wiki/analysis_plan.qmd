@@ -5,7 +5,7 @@ title: "Analysis plan"
 To propose a publication based on data in the p471 project, download and fill out the form below. 
 
 ::: {style="text-align: left;"}
-<p><a href="analysis_plan/Analysis_plan_PsychGen_Template_v6.docx" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
+<p><a href="analysis_plan/Analysis_plan_PsychGen_Template_v7.docx" download style="text-decoration: none; color: white; background-color: #007bff; padding: 8px 12px; border-radius: 4px;">Download</a></p>
 :::
 
 To submit your plan, please send via email to the PsychGen executive committee (currently Alexandra Havdahl <Alexandra.Havdahl@fhi.no>; Helga Ask <Helga.Ask@fhi.no>; Laurie Hannigan <Laurie.Hannigan@fhi.no>; Stian Barbo Valand <StianBarbo.Valand@fhi.no>; Ragna Bugge Askeland <RagnaBugge.Askeland@fhi.no>), cc-ing in the PI of your project if you are an external collaborator. 
