@@ -1,5 +1,5 @@
 ---
-title: "Accessing standard covariates"
+title: "The covariate file"
 ---
 
 ::: callout-important

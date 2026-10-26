@@ -78,8 +78,14 @@ website:
                   href: docs/psychgen_wiki/pheno_data.qmd
                 - section: "Standard covariates MoBa"
                   contents: 
-                    - text: "Education"
+                    - text: "The covariate file"
                       href: docs/psychgen_wiki/covariate_file.qmd
+                    - text: "Accessing standard covariates via phenotools"
+                      href: docs/psychgen_wiki/covariates_phenotools.qmd
+                    - text: "Derived covariates: education"
+                      href: docs/psychgen_wiki/covariates_edu.qmd
+                    - text: "Derived covariates: income"
+                      href: docs/psychgen_wiki/covariates_inc.qmd
                 - text: "{phenotools} vignette"
                   href: docs/psychgen_wiki/pheno_vignette.qmd
             - section: "Working with genetic data"

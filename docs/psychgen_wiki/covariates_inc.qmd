@@ -1,0 +1,13 @@
+---
+title: "Derived covariates: income"
+---
+
+::: callout-important
+## Need further help?
+
+Please use the relevant [Teams channel](https://teams.microsoft.com/l/channel/19%3A32f3d71d53fb4a78ae8ef1e1f98d5da1%40thread.tacv2/Using%20Phenotypic%20data?groupId=ef823ab8-2aa6-4001-83c0-f35ae8b2bfbc&tenantId=54475f80-1baa-4ea9-9185-c0de5cc603fe), if you have additional questions/problems relating to phenotypic data in p471.
+:::
+
+```{=html}
+<iframe width="900" height="1000" src="income.html" title="Derived covariates: income"></iframe>
+```

@@ -1,0 +1,26 @@
+---
+title: "Accessing standard covariates via phenotools"
+---
+
+::: callout-important
+## Need further help?
+
+Please use the relevant [Teams channel](https://teams.microsoft.com/l/channel/19%3A32f3d71d53fb4a78ae8ef1e1f98d5da1%40thread.tacv2/Using%20Phenotypic%20data?groupId=ef823ab8-2aa6-4001-83c0-f35ae8b2bfbc&tenantId=54475f80-1baa-4ea9-9185-c0de5cc603fe), if you have additional questions/problems relating to phenotypic data in p471.
+:::
+
+The standard covariates can be straightforwardly included in a dataset curation via `phenotools`  using the code below. See the `phenotools` vignette and `curate_dataset()`help page for details on the `assert_moba_files` option.
+
+``` r
+library(phenotools)
+
+covs <- c("year_birth","sex_birth","parity","mothers_age", "mother_age_first_child",
+          "number_children_mother","fathers_age","father_age_first_child",
+          "number_children_father", "nus_simplified_code_m","edu_group_m",
+          "isced_simplified_code_m","isced_simplified_code_desc_m",
+          "years_edu_m","nus_simplified_code_f","edu_group_f","isced_simplified_code_f",
+          "isced_simplified_code_desc_f","years_edu_f","income_deciles_win")
+
+mydata <- curate_dataset(variables_required=c("scl_anx_m_3yr","bmi_derived_f_q1", #example analytic vars from standard questionaires
+                                              covs), #vector of covariates included in the covariate file
+                         assert_moba_files = c("//ess01/P471/data/durable/data/MoBaPhenoData/MoBa_standard_covariates/data/covariates_moba_v3.sav")) 
+```
