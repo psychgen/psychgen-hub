@@ -8,6 +8,10 @@ title: "The covariate file"
 Please use the relevant [Teams channel](https://teams.microsoft.com/l/channel/19%3A32f3d71d53fb4a78ae8ef1e1f98d5da1%40thread.tacv2/Using%20Phenotypic%20data?groupId=ef823ab8-2aa6-4001-83c0-f35ae8b2bfbc&tenantId=54475f80-1baa-4ea9-9185-c0de5cc603fe), if you have additional questions/problems relating to phenotypic data in p471.
 :::
 
+Everyone working in p471 gets access to a set of standard covariate variables that are derived by the PsychGen data management team based on data from the Birth Registry of Norway (MFR) and Statistics Norway (SSB).
+
+Please note that you are not obliged to use any/all of these covariates in analyses; nor are they particularly recommended – this depends on your analytic question and is up to you as a researcher. However, if you wish to include e.g., education/income covariates and are not opinionated about how these should be operationalised, we recommend using those in the covariate file for consistency and to allow us to restrict access to sensitive data sources to only those with a clear analytic need.
+
 The covariate file (v4) contains the following variables:
 
 | **Variable name** | **Source** | **Category** | **Description** |
