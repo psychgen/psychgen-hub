@@ -23,4 +23,7 @@ covs <- c("year_birth","sex_birth","parity","mothers_age", "mother_age_first_chi
 mydata <- curate_dataset(variables_required=c("scl_anx_m_3yr","bmi_derived_f_q1", #example analytic vars from standard questionaires
                                               covs), #vector of covariates included in the covariate file
                          assert_moba_files = c("//ess01/P471/data/durable/data/MoBaPhenoData/MoBa_standard_covariates/data/covariates_moba_v4.sav")) 
+                         
+## NB: phenotools appends "_cov" to variables from the covariate file to distinguish from other unprocessed variables 
+
 ```
