@@ -16,11 +16,11 @@ library(phenotools)
 covs <- c("year_birth","sex_birth","parity","mothers_age", "mother_age_first_child",
           "number_children_mother","fathers_age","father_age_first_child",
           "number_children_father", "nus_simplified_code_m","edu_group_m",
-          "isced_simplified_code_m","isced_simplified_code_desc_m",
+          "isced_simplified_code_m","isced_simplified_code_description_m",
           "years_edu_m","nus_simplified_code_f","edu_group_f","isced_simplified_code_f",
-          "isced_simplified_code_desc_f","years_edu_f","income_deciles_win")
+          "isced_simplified_code_description_f","years_edu_f","income_deciles_win")
 
 mydata <- curate_dataset(variables_required=c("scl_anx_m_3yr","bmi_derived_f_q1", #example analytic vars from standard questionaires
                                               covs), #vector of covariates included in the covariate file
-                         assert_moba_files = c("//ess01/P471/data/durable/data/MoBaPhenoData/MoBa_standard_covariates/data/covariates_moba_v3.sav")) 
+                         assert_moba_files = c("//ess01/P471/data/durable/data/MoBaPhenoData/MoBa_standard_covariates/data/covariates_moba_v4.sav")) 
 ```

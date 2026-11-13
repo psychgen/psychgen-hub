@@ -8,6 +8,33 @@ title: "The covariate file"
 Please use the relevant [Teams channel](https://teams.microsoft.com/l/channel/19%3A32f3d71d53fb4a78ae8ef1e1f98d5da1%40thread.tacv2/Using%20Phenotypic%20data?groupId=ef823ab8-2aa6-4001-83c0-f35ae8b2bfbc&tenantId=54475f80-1baa-4ea9-9185-c0de5cc603fe), if you have additional questions/problems relating to phenotypic data in p471.
 :::
 
+The covariate file (v4) contains the following variables:
+
+| **Variable name** | **Source** | **Category** | **Description** |
+|---|---|---|---|
+| year_birth | MFR (via MoBa) | Demographic | Year of birth |
+| sex_birth | MFR | Demographic | Sex, prioritising sex recorded in birth registry (KJONN_MFR) |
+| parity | MFR (via MoBa) | Demographic | Number of previous deliveries (0-4+) |
+| mothers_age | MFR (via MoBa) | Demographic | Mother's age at child's birth (winsorized) |
+| mother_age_first_child | MFR | Demographic | Mother's age, first child (winsorized) |
+| number_children_mother | MFR | Demographic | Total number of children recorded (updated 2025), mother (winsorized) |
+| fathers_age | MFR (via MoBa) | Demographic | Father's age at child's birth (winsorized) |
+| father_age_first_child | MFR | Demographic | Father's age, first child (winsorized) |
+| number_children_father | MFR | Demographic | Total number of children recorded (updated 2025), father (winsorized) |
+| nus_simplified_code_m | SSB | Education | Mothers' educational attainment at child year of birth: NUS codes (1-digit) |
+| edu_group_m | SSB | Education | Mothers' educational attainment at child year of birth: group (4-level) |
+| isced_simplified_code_m | SSB | Education | Mothers' educational attainment at child year of birth: ISCED 2011 codes (1-digit) |
+| isced_simplified_code_description_m | SSB | Education | Mothers' educational attainment at child year of birth: ISCED 2011 codes (description) |
+| years_edu_m | SSB | Education | Mothers' educational attainment at child year of birth: minimum years in education |
+| nus_simplified_code_f | SSB | Education | Fathers' educational attainment at child year of birth: NUS codes (1-digit) |
+| edu_group_f | SSB | Education | Fathers' educational attainment at child year of birth: group (4-level) |
+| isced_simplified_code_f | SSB | Education | Fathers' educational attainment at child year of birth: ISCED 2011 codes (1-digit) |
+| isced_simplified_code_description_f | SSB | Education | Fathers' educational attainment at child year of birth: ISCED 2011 codes (description) |
+| years_edu_f | SSB | Education | Fathers' educational attainment at child year of birth: minimum years in education |
+| income_deciles_win | SSB | Income | Average parental income after tax at child year of birth (winsorized) |
+
+Full details about the file are below and in subsequent pages in this section of the wiki:
+
 ```{=html}
 <iframe width="900" height="1000" src="README_covariates.html" title="The p471 MoBa covariate file"></iframe>
 ```

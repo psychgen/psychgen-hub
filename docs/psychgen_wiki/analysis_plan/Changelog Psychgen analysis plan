@@ -1,0 +1,5 @@
+Changelog Psychgen analysis plan
+
+v7.1 (13.11.26; Laurie)
+
+- Updated covariate table with corrected variable names (_description_ variables) and description for sex_at_birth (covariate file now v4)
