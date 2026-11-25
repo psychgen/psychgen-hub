@@ -1,0 +1,12 @@
+---
+title: "A new structure for the Wiki"
+format: html
+date: 11/25/2026
+date-format: full
+---
+
+The Wiki has been reorganised so that it follows a project from start to finish. Clicking Wiki in the top menu now opens an overview page. In addition, the left sidebar groups the pages into sections. Each section heading opens a short page listing what it contains.
+
+Contents in onboarding, export requests and offboarding will be added.
+
+If you find a broken link or outdated information, please open an issue in the [GitHub repository](https://github.com/psychgen/psychgen-hub/issues).
