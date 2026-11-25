@@ -1,0 +1,42 @@
+---
+title: "Export procedure"
+format: html
+aliases:
+  - export.html
+---
+
+In this section you can find information about how to export files to/from TSD. To export results from TSD please use the template included below. Before you start, read the [Export principles](export_principles.qmd).
+
+## Export process: step-by-step
+
+1.  Ensure that there are no personal data or results on groups of fewer than 10 (\<10) individuals in the file(s) that you wish to have exported.
+
+2.  Move the file(s) you need exported to `data/durable/common/Exported files`, within a folder with your own name. Multiple files for a single export should be placed into a single folder, called something like "User_DDMMYY".
+
+NB: It is recommended that you copy files in individually rather than entire folders, to minimise the risk of accidentally including data files, such as .RData disk image snapshots, which may be hidden by default (we recommend that you make these visible to ticking the relevant box under the "View" tab in Windows Explorer).
+
+3.  Double-check that only the intended files are in the export folder, and that all files are safe to export
+
+4.  [Use this pre-filled e-mail template to create your export request](mailto:stianbarbo.valand@fhi.no;Laura.Elizabeth.Hegemann@fhi.no;Yunpeng.Ding@lds.no;helga.ask@fhi.no;Laurie.Hannigan@fhi.no;Alexandra.Havdahl@fhi.no?body=TSD%20path:) when requesting files.
+
+<!-- -->
+
+5.  Copy the table below into your request e-mail and complete for your files:
+
+| Filename (similar files may be grouped for convenience) | Contents | Reason | I confirm that there is no personal data in the exported file request |
+|------------------|------------------|------------------|------------------|
+| Example.txt | Summary of results for... | Inclusion in manuscript | Confirmed |
+| Figure 1.pdf | Network plots | Inclusion in Supplementary Materials | Confirmed |
+|  |  |  |  |
+
+6.  Attach your approved analytical plan (signed PDF version received from PsychGen coordinator)
+
+::: {.callout-note appearance="minimal" icon="false"}
+## Pre-filled e-mail not working?
+
+Send export request e-mail to the following: **StianBarbo.Valand\@fhi.no; Alexandra.Havdahl\@fhi.no; Helga.Ask\@fhi.no; Laura.Elizabeth.Hegemann\@fhi.no; Yunpeng.Ding\@lds.no;Laurie.Hannigan\@fhi.no**
+
+Include the path to the files on TSD, copy in the table in point 5 above and complete.
+:::
+
+Please note that exporting is a time-consuming and high stakes endeavour for us that must be carried out alongside our other work. Our aim is to action all export requests within one week during non-holiday periods. Please be patient and plan your exports with this time lag in mind as far as possible.

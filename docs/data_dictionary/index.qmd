@@ -1,6 +1,7 @@
 ---
 title: "Data dictionary"
 format: html
+page-layout: article
 ---
 
 The Data Dictionary is a tool to help PsychGen members and collaborators browse existing variables in the p471 project. In the Data Dictionary, you can identify available variables from MoBa, SSB and KUHR that can be relevant for your research project. We recommend you to use the tool to create and download variable lists and tables to include in your analysis plan. You need to be an authorized user to access the Data Dictionary.

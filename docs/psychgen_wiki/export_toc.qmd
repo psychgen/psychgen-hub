@@ -1,0 +1,17 @@
+---
+title: "Exporting results and publishing"
+format: html
+---
+
+How to get results out of TSD safely and prepare your publication.
+
+## Export
+
+* [Export principles](export_principles.qmd): what counts as personal data, which must never be exported, and how to handle screenshots.
+* [Export procedure](export_procedure.qmd): a step by step guide to requesting an export.
+* [Make an export request](export_request.qmd): [[CONFIRM: description]]
+
+## Publication
+
+* [Checklist](checklist.qmd): what to check before you submit your manuscript.
+* [Reporting](ReportingCristin.qmd): how to report your publication to NVA.

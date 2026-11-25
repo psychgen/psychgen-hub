@@ -1,0 +1,34 @@
+---
+title: "Working on a project"
+format: html
+---
+
+How to work in TSD and use the data in p471.
+
+## TSD
+
+TSD is the secure platform where you work with p471 data.
+
+* [Basics](tsd_gettingstarted.qmd): what TSD is and how to log in to project p471.
+* [Use outside EU](access_tsd.qmd): you need written approval from the PsychGen EC before using TSD outside the EU.
+* [Code of conduct](data_gettingstarted.qmd): rules for sharing p471 with other users.
+* [Setting up a project](analytic_project.qmd): create a project folder from the PsychGen project template.
+    * [Version control](git.qmd): set up Git for your project in RStudio.
+* [HPC](using_hpc.qmd): use Colossus, the TSD HPC cluster, and stay within the shared p471 quota.
+
+## Data
+
+The phenotypic and genetic data in p471, how they are documented, and the tools to work with them.
+
+* [Documentation](datadocumentation.qmd): a summary of the data owners' documentation for each data source, and where to find it in TSD.
+* **Working with phenotypic data**
+    * [Using MoBa questionnaire and linked registry data](pheno_data.qmd): how to work with MoBa questionnaire and registry data, including the phenotools R package.
+    * Standard covariates
+        * [The covariate file](covariate_file.qmd): the standard covariates everyone in p471 can use, and what each variable contains.
+        * [Accessing standard covariates via phenotools](covariates_phenotools.qmd): code to add the standard covariates to your dataset.
+        * [Derived covariates: education](covariates_edu.qmd): how the education covariates are derived.
+        * [Derived covariates: income](covariates_inc.qmd): how the income covariates are derived.
+    * [{phenotools} vignette](pheno_vignette.qmd): the latest version of the phenotools vignette.
+* **Working with genetic data**
+    * [Using MoBa genetic data](genetic_data.qmd): where to find the quality controlled MoBa genetic data and how to use it.
+    * [{genotools} vignette](geno_vignette.qmd): the latest version of the genotools vignette.

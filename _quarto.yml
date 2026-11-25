@@ -22,7 +22,7 @@ website:
       - text: "News"
         href: news.qmd
       - text: "Wiki"
-        href: docs/psychgen_wiki/analysis_plan.qmd
+        href: docs/psychgen_wiki/pipelines.qmd
       - text: "Data dictionary"
         href: docs/data_dictionary
       - text: "psychgenR"
@@ -45,65 +45,91 @@ website:
             
   sidebar:
     - id: psychgen_wiki
-    - title: "Wiki"
+      title: "Wiki"
       align: left
-      contents: 
+      contents:
+        - text: "Pipelines"
+          href: docs/psychgen_wiki/pipelines.qmd
         - "---"
-        - section: "Analysis Plan and Preregistration"
-          contents: 
+        - text: "Onboarding"
+          href: docs/psychgen_wiki/onboarding.qmd
+        - "---"
+        - section: "Starting a project"
+          href: docs/psychgen_wiki/start_toc.qmd
+          contents:
             - text: "Analysis plan"
               href: docs/psychgen_wiki/analysis_plan.qmd
+            - text: "Data dictionary"
+              href: docs/data_dictionary/index.qmd
             - text: "Preregistration"
               href: docs/psychgen_wiki/preregistration.qmd
         - "---"
-        - section: "Working in p471"
+        - section: "Working on a project"
+          href: docs/psychgen_wiki/working_toc.qmd
           contents:
-            - text: "TSD"
-              href: docs/psychgen_wiki/tsd_gettingstarted.qmd
-            - text: "TSD outside EU"
-              href: docs/psychgen_wiki/access_tsd.qmd
-            - text: "Data Documentation inside TSD"
-              href: docs/psychgen_wiki/datadocumentation.qmd
-            - text: "Code of conduct"
-              href: docs/psychgen_wiki/data_gettingstarted.qmd
-            - text: "Setting up a new analytical project"
-              href: docs/psychgen_wiki/analytic_project.qmd
-            - text: "Enabling Git in RStudio"
-              href: docs/psychgen_wiki/git.qmd
-            - text: "Using HPC"
-              href: docs/psychgen_wiki/using_hpc.qmd
-            - section: "Working with phenotypic data"
+            - section: "TSD"
               contents:
-                - text: "Using MoBa questionnaire and linked registry data"
-                  href: docs/psychgen_wiki/pheno_data.qmd
-                - section: "Standard covariates MoBa"
-                  contents: 
-                    - text: "The covariate file"
-                      href: docs/psychgen_wiki/covariate_file.qmd
-                    - text: "Accessing standard covariates via phenotools"
-                      href: docs/psychgen_wiki/covariates_phenotools.qmd
-                    - text: "Derived covariates: education"
-                      href: docs/psychgen_wiki/covariates_edu.qmd
-                    - text: "Derived covariates: income"
-                      href: docs/psychgen_wiki/covariates_inc.qmd
-                - text: "{phenotools} vignette"
-                  href: docs/psychgen_wiki/pheno_vignette.qmd
-            - section: "Working with genetic data"
-              contents: 
-                - text: "Using MoBa genetic data"
-                  href: docs/psychgen_wiki/genetic_data.qmd
-                - text: "{genotools} vignette"
-                  href: docs/psychgen_wiki/geno_vignette.qmd
+                - text: "Basics"
+                  href: docs/psychgen_wiki/tsd_gettingstarted.qmd
+                - text: "Use outside EU"
+                  href: docs/psychgen_wiki/access_tsd.qmd
+                - text: "Code of conduct"
+                  href: docs/psychgen_wiki/data_gettingstarted.qmd
+                - section: "Setting up a project"
+                  href: docs/psychgen_wiki/analytic_project.qmd
+                  contents:
+                    - text: "Version control"
+                      href: docs/psychgen_wiki/git.qmd
+                - text: "HPC"
+                  href: docs/psychgen_wiki/using_hpc.qmd
+            - section: "Data"
+              contents:
+                - text: "Documentation"
+                  href: docs/psychgen_wiki/datadocumentation.qmd
+                - section: "Working with phenotypic data"
+                  contents:
+                    - text: "Using MoBa questionnaire and linked registry data"
+                      href: docs/psychgen_wiki/pheno_data.qmd
+                    - section: "Standard covariates MoBa"
+                      contents:
+                        - text: "The covariate file"
+                          href: docs/psychgen_wiki/covariate_file.qmd
+                        - text: "Accessing standard covariates via phenotools"
+                          href: docs/psychgen_wiki/covariates_phenotools.qmd
+                        - text: "Derived covariates: education"
+                          href: docs/psychgen_wiki/covariates_edu.qmd
+                        - text: "Derived covariates: income"
+                          href: docs/psychgen_wiki/covariates_inc.qmd
+                    - text: "{phenotools} vignette"
+                      href: docs/psychgen_wiki/pheno_vignette.qmd
+                - section: "Working with genetic data"
+                  contents:
+                    - text: "Using MoBa genetic data"
+                      href: docs/psychgen_wiki/genetic_data.qmd
+                    - text: "{genotools} vignette"
+                      href: docs/psychgen_wiki/geno_vignette.qmd
         - "---"
-        - section: "Exports, publications and reporting"
-          contents: 
-            - text: "Export"
-              href: docs/psychgen_wiki/export.qmd
-            - text: "Publication checklist"
-              href: docs/psychgen_wiki/checklist.qmd
-            - text: "Reporting to NVA"
-              href: docs/psychgen_wiki/ReportingCristin.qmd 
-        - "---"      
+        - section: "Exporting results and publishing"
+          href: docs/psychgen_wiki/export_toc.qmd
+          contents:
+            - section: "Export"
+              contents:
+                - text: "Principles"
+                  href: docs/psychgen_wiki/export_principles.qmd
+                - text: "Procedure"
+                  href: docs/psychgen_wiki/export_procedure.qmd
+                - text: "Make export request"
+                  href: docs/psychgen_wiki/export_request.qmd
+            - section: "Publication"
+              contents:
+                - text: "Checklist"
+                  href: docs/psychgen_wiki/checklist.qmd
+                - text: "Reporting"
+                  href: docs/psychgen_wiki/ReportingCristin.qmd
+        - "---"
+        - text: "Offboarding"
+          href: docs/psychgen_wiki/offboarding.qmd
+        - "---"
         - section: "Other resources"
           contents: 
             - text: "Logos"
