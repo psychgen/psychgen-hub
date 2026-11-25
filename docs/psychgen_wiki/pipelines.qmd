@@ -1,0 +1,12 @@
+---
+title: "PsychGen Wiki"
+format: html
+---
+
+This wiki explains how to work with data in the PsychGen project p471. The pages follow a project from start to finish.
+
+- [Onboarding](onboarding.qmd): \[\[CONFIRM: description\]\]
+- [Starting a project](start_toc.qmd): propose your project, find variables and preregister your analyses.
+- [Working on a project](working_toc.qmd): work in TSD and use the phenotypic and genetic data in p471.
+- [Exporting results and publishing](export_toc.qmd): get results out of TSD safely and prepare your publication.
+- [Offboarding](offboarding.qmd): \[\[CONFIRM: description\]\]

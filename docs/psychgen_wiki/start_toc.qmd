@@ -1,0 +1,10 @@
+---
+title: "Starting a project"
+format: html
+---
+
+What you need to do before you start a new project in p471.
+
+* [Analysis plan](analysis_plan.qmd): download the template, send your plan to the executive committee, and see what happens next.
+* [Data dictionary](../data_dictionary/index.qmd): browse the variables available in p471 and request access to the tool.
+* [Preregistration](preregistration.qmd): what a preregistration is, how and when to preregister, and a template to download.

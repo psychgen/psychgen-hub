@@ -1,0 +1,18 @@
+---
+title: "Export principles"
+format: html
+---
+
+All users have a responsibility to ensure that no personal data is ever exported from TSD.
+
+## What is personal data?
+
+Personal data is all information on the individual level. This is either results from completed analysis or raw data containing information on the individual. All group data with fewer than ten (\<10) individuals are considered personal data. Even personal data that is anonymised is considered personal data (this includes genetic data).
+
+**Rule of thumb:** any line of data that is related to an individual is considered personal data.
+
+## Screenshots
+
+Screenshots from TSD are considered export. If you want to take a screenshot use the export process described in [Export procedure](export_procedure.qmd).
+
+In your export request, clearly describe what you want to screenshot, and ask for approval **before** taking the screenshots. We will prioritise these requests. If you have multiple export requests, send the screenshot requests as separate requests to ensure they can be handled quickly. Also add screenshot in the title of the email.

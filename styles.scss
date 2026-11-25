@@ -29,6 +29,33 @@ p {
 }
 
 
+// Vertical guide lines for nested sections in the left sidebar,
+// in the same style as the "On this page" list on the right
+.sidebar-navigation ul.sidebar-section {
+  border-left: 1px solid rgba(0, 0, 0, 0.15);
+  margin-left: 0.4rem;
+  padding-left: 0.7rem;
+}
+
+// Mark the current page on the guide line, like "On this page" does
+.sidebar-navigation ul.sidebar-section .sidebar-item-container:has(> a.sidebar-link.active) {
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: calc(-0.7rem - 2px);
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: $primary;
+  }
+}
+
+.sidebar-navigation a.sidebar-link.active {
+  font-weight: 600;
+}
+
 .sidebar-item .sidebar-item-toggle .bi {
   // The dongle for opening and closing sections
   font-size: 1.2rem;
@@ -70,13 +97,20 @@ p {
 }
 
 #toc-title {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 1.2rem;
 }
 
 .sidebar nav[role="doc-toc"] > ul li a {
   padding-top: 0.4rem;
   padding-bottom: 0.4rem;
+}
+
+// Larger, easier to read text in "On this page"
+.sidebar nav[role="doc-toc"],
+.sidebar nav[role="doc-toc"] ul li a {
+  font-size: 1rem;
+  line-height: 1.4;
 }
 
 
