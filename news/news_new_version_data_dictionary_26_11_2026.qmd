@@ -1,7 +1,7 @@
 ---
 title: "PsychGen data dictionary: new version"
 format: html
-date: 26/11/2026
+date: 11/26/2026
 date-format: full
 ---
 
