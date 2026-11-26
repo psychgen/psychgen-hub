@@ -10,7 +10,7 @@ How to work in TSD and use the data in p471.
 TSD is the secure platform where you work with p471 data.
 
 * [Basics](tsd_gettingstarted.qmd): what TSD is and how to log in to project p471.
-* [Use outside EU](access_tsd.qmd): you need written approval from the PsychGen EC before using TSD outside the EU.
+* [Use abroad](access_tsd.qmd): you need written approval from the PsychGen EC before using TSD outside the EEA, Switzerland and the UK.
 * [Code of conduct](data_gettingstarted.qmd): rules for sharing p471 with other users.
 * [Setting up a project](analytic_project.qmd): create a project folder from the PsychGen project template.
     * [Version control](git.qmd): set up Git for your project in RStudio.
