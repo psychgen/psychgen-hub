@@ -71,7 +71,7 @@ website:
               contents:
                 - text: "Basics"
                   href: docs/psychgen_wiki/tsd_gettingstarted.qmd
-                - text: "Use outside EU"
+                - text: "Use abroad"
                   href: docs/psychgen_wiki/access_tsd.qmd
                 - text: "Code of conduct"
                   href: docs/psychgen_wiki/data_gettingstarted.qmd

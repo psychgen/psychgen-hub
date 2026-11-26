@@ -2,10 +2,10 @@
 title: "Accessing TSD outside your country of residence"
 ---
 
-In this section you can find information about the usage of TSD outside of your resident contry
+::: callout-important
+## Where you may use TSD
 
-------------------------------------------------------------------------
+For data protection reasons, you may only access or use TSD while you are physically in the European Economic Area (EEA), Switzerland or the United Kingdom. The EEA covers the EU countries, Iceland, Liechtenstein and Norway.
 
-For data protection reasons, you are not allowed to access or use TSD from outside the European Union (for example when traveling or staying in a non‑EU country) 
-unless you have obtained explicit written approval from the PsychGen EC in advance. This includes logging in to TSD, running analyses, or viewing any data 
-through TSD while you are physically outside the EU. 
+Anywhere else, for example when travelling, you need explicit written approval from the PsychGen EC in advance. This includes logging in to TSD, running analyses or viewing any data through TSD.
+:::

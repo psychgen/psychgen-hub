@@ -62,6 +62,37 @@ p {
   text-align: center;
 }
 
+// News page list: space and a thin line between the page intro and the first item
+.quarto-listing {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $gray-300;
+}
+
+// News page list: narrower date column, clearer title and summary
+.quarto-listing div.quarto-post {
+  .body .listing-title {
+    margin-bottom: 0.3em;
+  }
+
+  .listing-description {
+    font-size: 0.9em;
+    color: $gray-700;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .quarto-listing div.quarto-post {
+    gap: 1.5em;
+
+    .metadata {
+      flex-basis: 9em;
+      flex-grow: 0;
+      flex-shrink: 0;
+    }
+  }
+}
+
 // Increase font size in navbar
 .navbar {
   font-size: 1.3rem;

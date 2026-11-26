@@ -2,6 +2,9 @@
 title: "News and updates"
 listing:
   contents: news
+  sort: "date desc"
+  fields: [date, title, description]
+  date-format: "D MMMM YYYY"
   feed: true
 ---
 
