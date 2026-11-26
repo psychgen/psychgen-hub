@@ -1,0 +1,24 @@
+---
+title: "New online form for Data Dictionary access"
+format: html
+date: 2026-11-26
+date-format: full
+---
+
+Access to the PsychGen Data Dictionary is now requested through an online form. Please use the form instead of sending requests by email.
+
+## How to request access
+
+1. Open the form: [Request access to the Data Dictionary](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=IwyAw4_4N0aUgY1iakrg4EmxJpMLzP5JlBkhjPHdgulUM1ZTU1M2VVlSOVBQNDJXTFJXTExSUzgzWC4u){.btn .btn-primary target="_blank"}
+2. Fill in your name, the email address you want to use for the Data Dictionary, your institution and your PsychGen contact person (if there is any).
+3. Submit the form. You will hear from us within two working days.
+
+## What happens next
+
+* The PsychGen team checks your request.
+* If it is approved, you receive an invitation from shinyapps.io at the email address you gave. Accept the invitation and sign in with an account linked to that address.
+* Access is reviewed once a year. Please let us know when you no longer need it, for example when your project ends.
+
+See the [Data dictionary](../docs/data_dictionary/index.qmd) page for the full steps, including how to create a Posit account.
+
+Questions: [Yunpeng.Ding@lds.no](mailto:Yunpeng.Ding@lds.no)
