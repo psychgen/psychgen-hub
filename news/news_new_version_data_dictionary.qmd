@@ -1,0 +1,33 @@
+---
+title: "PsychGen data dictionary: new version"
+format: html
+date: 26/11/2026
+date-format: full
+---
+
+A new version of the PsychGen p471 data dictionary is now live. It brings an updated list of MoBa scales, a way to save your work and continue later, and several fixes.
+
+## New
+
+* **Save your selection and continue later.** The CSV zip you download now holds a small file that remembers what you picked. On the "View selected variables" page, upload the zip under "Continue a saved selection" and click Restore selection, and the same variables and scales are selected again. Do not edit or remove `selection_keys.csv` in the zip, or it can no longer be used for this.
+* **Remove what you no longer need.** Each row on the "View selected variables" page has a Remove button, and Clear all empties the whole selection.
+* **See your selection at a glance.** The menu on the left shows how many variables and scales you have selected from each source.
+* **Know why an item is in your selection.** The new "Selected via" column shows whether you picked an item yourself or whether it came with a scale.
+* **SSB Year range.** The SSB tables show the years each variable covers.
+* **Help finding SSB documentation.** The SSB page now links to the Norwegian variable list for each of the four SSB tabs and says which Excel file to download.
+
+## Updated data
+
+* **MoBa scales from phenotools 0.6.0.** One scale, `rsdbd_adhd_c_14m`, was listed twice in the previous version, the second time for its hyperactivity part only. It is now listed once. The hyperactivity items are still available as the scale `rsdbd_hyp_c_14m`.
+* **SSB variable lists** for education, income, social security and employment are updated.
+
+## Improved and fixed
+
+* Your selections stay when you move between data sources.
+* An item that belongs to several scales, or that you picked both yourself and through a scale, now appears once in tables and downloads.
+* Selected MoBa scales are included in both downloads: in their own file in the CSV zip, and in their own table in the Word file.
+* The download buttons work only when something is selected, so you no longer get empty files, and you only get files for the sources you picked from.
+* The CSV files open correctly in Excel, and Norwegian letters (æ, ø, å) are shown correctly everywhere.
+* The tables in the Word file are easier to read, and text shows exactly as written.
+* In the NPR counts table, the counts sort by size.
+* A scale is left out if it lists an item that is missing from the MoBa items table, so you cannot select an incomplete scale.
